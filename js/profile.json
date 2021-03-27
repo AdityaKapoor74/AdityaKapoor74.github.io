@@ -370,6 +370,16 @@
   ],
   "experince": [
     {
+      "sn": 6,
+      "link": "",
+      "workPosition": "Scout Troop Leader",
+      "periodStart": "April 2010",
+      "periodEnd": "May 2012",
+      "organisation": "JNV,Washim",
+      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
+      "type": "volunteer"
+    },
+    {
       "sn": 1,
       "link": "http://biorobotics.ri.cmu.edu/",
       "workPosition": "Research Intern",
@@ -397,7 +407,7 @@
       "periodEnd": "July 2018",
       "organisation": "Smartify World Pvt Limited",
       "experience": "Used the Django framework to deploy a dashboard for the Parking System which is currently functional in Dubai",
-      "type": "volunteer"
+      "type": "intern"
     },
     {
       "sn": 3,
