@@ -452,102 +452,6 @@
   ],
   "projects": [
     {
-      "sn": 14,
-      "projectTitle": "Traffic Rules",
-      "periodStart": "July 2015",
-      "periodEnd": "Nov 2015",
-      "toolsUsed": [
-        "Blender",
-        "Movie Maker"
-      ],
-      "tags": [
-        "blender",
-        "animation",
-        "3d-modelling",
-        "traffic rules"
-      ],
-      "shortInfo": "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III.",
-      "link": "https://github.com/moghya/Traffic-Rules"
-    },
-    {
-      "sn": 13,
-      "projectTitle": "Smart Hospital Management",
-      "periodStart": "Aug 2015",
-      "periodEnd": "Sep 2015",
-      "toolsUsed": [
-        "c++",
-        "qt"
-      ],
-      "tags": [
-        "oop",
-        "c++",
-        "qt",
-        "gui",
-        "files"
-      ],
-      "shortInfo": "C++ Qt Standalone Application keeps track of every patient and its visits. Data collected can be used for Projects of Data Mining and Machine Learning as data sets.",
-      "link": "https://github.com/moghya/smartHMS"
-    },
-    {
-      "sn": 12,
-      "projectTitle": "Seat Allocation",
-      "periodStart": "Dec 2015",
-      "periodEnd": "Dec 2015",
-      "toolsUsed": [
-        "c++"
-      ],
-      "tags": [
-        "c++",
-        "gayle-shapely",
-        "ds",
-        "oop"
-      ],
-      "shortInfo": "Simulation of college seat allocation process. Choice filling and Seat Allocation are performed. Modified Gayle-Shapely Algorithm implemented. Can be scaled using C++ CGI for deployment.",
-      "link": "https://github.com/moghya/collegeSeatAllocationPrototype"
-    },
-    {
-      "sn": 11,
-      "projectTitle": "Online External Examination Portal",
-      "periodStart": "Feb 2016",
-      "periodEnd": "May 2016",
-      "toolsUsed": [
-        "php",
-        "js",
-        "mysql",
-        "html",
-        "css",
-        "bootstrap"
-      ],
-      "tags": [
-        "php",
-        "js",
-        "bootstrap",
-        "mysql"
-      ],
-      "shortInfo": "It's a web application developed using PHP , MySQL, Bootstrap, JavaScript etc. for conducting practical exams online.",
-      "link": "https://github.com/moghya/external-exam-portal"
-    },
-    {
-      "sn": 9,
-      "projectTitle": "LookIn",
-      "periodStart": "Mar 2016",
-      "periodEnd": "May 2016",
-      "toolsUsed": [
-        "python",
-        "sqllite3",
-        "beautifulsoup",
-        "requests"
-      ],
-      "tags": [
-        "search engine",
-        "python",
-        "indexing",
-        "web scraping"
-      ],
-      "shortInfo": "It's a search engine made using Python, Beautifulsoup . Which crawls downloaded websites and indexes them. After one time indexing it delivers search results ",
-      "link": ""
-    },
-    {
       "sn": 3,
       "projectTitle": "SONATA: A tool to generate social navigation dataset",
       "periodStart": "May 2020",
@@ -623,27 +527,6 @@
       "link": "https://github.com/moghya/followscreen"
     },
     {
-      "sn": 8,
-      "projectTitle": "Digital Library Portal",
-      "periodStart": "Feb 2017",
-      "periodEnd": "May 2017",
-      "toolsUsed": [
-        "QuilJs",
-        "php",
-        "mysql",
-        "JavaScript"
-      ],
-      "tags": [
-        "webapp",
-        "php",
-        "mysql",
-        "js",
-        "materialize"
-      ],
-      "shortInfo": "According to the requirements taken Developed a Digital Library Portal for College Library. All of the sections are dynamic and everything is editable using Admin Panel. Used Quill-Js for implementing Editor for Admin. PHP, MySQL is used.",
-      "link": "#"
-    },
-    {
       "sn": 5,
       "projectTitle": "Speech Classification using Spiking Neural Networks",
       "periodStart": "May 2019",
@@ -683,21 +566,22 @@
     },
     {
       "sn": 6,
-      "projectTitle": "toGithub",
-      "periodStart": "May 2017",
-      "periodEnd": "Present",
+      "projectTitle": "Visual Categorization Study",
+      "periodStart": "May 2019",
+      "periodEnd": "March 2021",
       "toolsUsed": [
         "python",
-        "PyGithub",
-        "requests",
-        "beautifulsoup"
+        "django",
+        "html",
+        "css"
       ],
       "tags": [
-        "scraping",
-        "git-api"
+        "neuroscience",
+        "webapp",
+        "bayesian modelling"
       ],
-      "shortInfo": "A python app developed for scraping solutions from Sport Programming Websites and uploding them to Github.",
-      "link": "https://github.com/moghya/toGithub"
+      "shortInfo": "A study of categorization strategy used by adult humans.",
+      "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
     }
   ],
   "summary": "<p>Hello, I'm a Computer science enthusiast and B.Tech Information Technology graduate having 2 years of experience as Software Development Engineer in Internet/Ad-Tech industry. As of now I'm involved in developing distributed system software for Storage Management.</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
