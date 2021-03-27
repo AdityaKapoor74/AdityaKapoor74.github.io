@@ -599,7 +599,7 @@
         "supervised learning",
         "autonomous navigation",
       ],
-      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
+      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal.",
       "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
     },
     {
