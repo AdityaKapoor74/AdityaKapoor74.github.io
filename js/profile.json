@@ -16,12 +16,12 @@
   },
   "educations": [
     {
-      "periodStart": "July 2014",
-      "periodEnd": "May 2018",
-      "course": "B.Tech Information Technology",
-      "score": "7.59 CGPA",
-      "inst": "Walchand College of Engineering, Sangli",
-      "board": "Shivaji University",
+      "periodStart": "August 2017",
+      "periodEnd": "January 2021",
+      "course": "B.E Computer Science and Information Systems",
+      "score": "8.43 CGPA",
+      "inst": "BITS Pilani, Goa",
+      "board": "BITS",
       "courses": [
         {
           "courseCode": "3IT202",
