@@ -114,36 +114,6 @@
         {
           "courseName": "Digital Design",
           "sn": 23
-        },
-        {
-          "courseCode": "3IT265",
-          "courseName": "Programming Lab - II (Java)",
-          "courseScore": "10/10",
-          "sn": 27
-        },
-        {
-          "courseCode": "3IT312",
-          "courseName": "Cloud Computing",
-          "courseScore": "7/10",
-          "sn": 14
-        },
-        {
-          "courseCode": "3IT323",
-          "courseName": "Information Theory",
-          "courseScore": "8/10",
-          "sn": 9
-        },
-        {
-          "courseCode": "2IT253",
-          "courseName": "Processor Architechture Lab",
-          "courseScore": "10/10",
-          "sn": 28
-        },
-        {
-          "courseCode": "3IT351",
-          "courseName": "Database Engineering Lab",
-          "courseScore": "10/10",
-          "sn": 31
         }
       ]
     }
