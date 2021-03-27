@@ -370,7 +370,7 @@
   ],
   "experince": [
     {
-      "sn": -1,
+      "sn": 1,
       "link": "http://biorobotics.ri.cmu.edu/",
       "workPosition": "Research Intern",
       "periodStart": "May 2020",
@@ -380,7 +380,7 @@
       "type": "collaboration"
     },
     {
-      "sn": 0,
+      "sn": 2,
       "link": "http://www.gnns4hri.org/",
       "workPosition": "Research Intern",
       "periodStart": "May 2020",
@@ -390,24 +390,24 @@
       "type": "collaboration"
     },
     {
-      "sn": 1,
-      "link": "http://wcepace.in/",
-      "workPosition": "Joint. Skills Developer",
-      "periodStart": "April 2016",
-      "periodEnd": "January 2017",
-      "organisation": "Personality Advancement Circle of Engineers.",
-      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
+      "sn": 4,
+      "link": "https://smartifyworld.com/",
+      "workPosition": "Webapp Developer Intern",
+      "periodStart": "May 2018",
+      "periodEnd": "July 2018",
+      "organisation": "Smartify World Pvt Limited",
+      "experience": "Used the Django framework to deploy a dashboard for the Parking System which is currently functional in Dubai",
       "type": "volunteer"
     },
     {
-      "sn": 2,
-      "link": "http://wcepace.in/",
-      "workPosition": "Cheif. Skills Developer",
-      "periodStart": "January 2017",
-      "periodEnd": "December 2017",
-      "organisation": "Personality Advancement Circle of Engineers.",
-      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
-      "type": "volunteer"
+      "sn": 3,
+      "link": "https://www.makersasylum.com/",
+      "workPosition": "Software Engineer Intern",
+      "periodStart": "May 2019",
+      "periodEnd": "May 2019",
+      "organisation": "Maker's Asylum",
+      "experience": "Worked on the home automation system. Designed a course on Robotics for people without any engineering background Beginner to Amateur.",
+      "type": "intern"
     }
   ],
   "projects": [
