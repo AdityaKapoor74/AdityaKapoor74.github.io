@@ -591,13 +591,13 @@
       "toolsUsed": [
         "pytorch",
         "pybullet",
-        "scikit",
+        "scikit"
       ],
       "tags": [
         "python",
         "data analytics",
         "supervised learning",
-        "autonomous navigation",
+        "autonomous navigation"
       ],
       "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal.",
       "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
