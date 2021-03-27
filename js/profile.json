@@ -90,31 +90,7 @@
         {
           "courseName": "Logic in Computer Science",
           "sn": 17
-        },
-        {
-          "courseName": "Principles of Programming Language",
-          "sn": 18
-        },
-        {
-          "courseName": "Computer Networks",
-          "sn": 19
-        },
-        {
-          "courseName": "Compiler Construction",
-          "sn": 20
-        },
-        {
-          "courseName": "Information Retrieval",
-          "sn": 21
-        },
-        {
-          "courseName": "Microprocessors",
-          "sn": 22
-        },
-        {
-          "courseName": "Digital Design",
-          "sn": 23
-        },
+        }
       ]
     }
   ],
