@@ -28,21 +28,15 @@
           "sn": 1
         },
         {
-          "courseCode": "3IT304",
-          "courseName": "Computer Algorithms",
-          "courseScore": "7/10",
+          "courseName": "Deep Learning",
           "sn": 2
         },
         {
-          "courseCode": "3IT331",
           "courseName": "Machine Learning",
-          "courseScore": "10/10",
           "sn": 3
         },
         {
-          "courseCode": "3OE---",
-          "courseName": "Data Analytics",
-          "courseScore": "8/10",
+          "courseName": "Robotics Specialization",
           "sn": 4
         },
         {
