@@ -663,22 +663,23 @@
     },
     {
       "sn": 4,
-      "projectTitle": "Detection and Prevention of Black hole Attack in MANET",
-      "periodStart": "Jul 2016",
-      "periodEnd": "Nov 2016",
+      "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
+      "periodStart": "January 2021",
+      "periodEnd": "Present",
       "toolsUsed": [
-        "c++",
-        "ns2",
-        "tcl",
-        "awk"
+        "pytorch",
+        "dgl",
+        "webots",
+        "pytorch_geometric"
       ],
       "tags": [
-        "c++",
-        "blackhole-attack",
-        "ns2"
+        "python",
+        "gnns",
+        "Human Robot Interaction",
+        "Reinforcement Learning"
       ],
-      "shortInfo": "It was a Team Project. We made changes in AODV protocol to simulate Black hole attack in Mobile and Adhoc Network​ and later implemented techniques for prevention of the Attack.",
-      "link": "#"
+      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
+      "link": "https://github.com/gnns4hri/SNGNN-RL"
     },
     {
       "sn": 10,
