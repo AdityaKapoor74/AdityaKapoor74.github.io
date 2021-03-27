@@ -523,7 +523,7 @@
         "python",
         "autonomous navigation"
       ],
-      "shortInfo": "Autonomous Navigation of a Mars Rover in a partially known terrain.",
+      "shortInfo": "Autonomous Navigation of a Mars Rover in a partially known terrain  with a custom variant of RRT.",
       "link": "https://kratosbitsgoa.com/"
     },
     {
