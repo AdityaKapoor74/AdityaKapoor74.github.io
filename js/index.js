@@ -227,12 +227,12 @@ $.get("js/profile.json",
 			loop:true
 		});
 		// loadLikes(profile.likes);
-		$('#helloText').html(profile.helloText);
+		// $('#helloText').html(profile.helloText);
 		// loadLinks(profile.profileLinks);
 		// loadSkills(profile.skills);
 		// loadProjects(profile.projects);
 		// loadWorks(profile.experince);
 		// loadEducations(profile.educations);
-		console.log('body loaded calling');
-		onBodyLoad();
+		// console.log('body loaded calling');
+		// onBodyLoad();
 });
