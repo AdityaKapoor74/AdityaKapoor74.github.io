@@ -585,20 +585,22 @@
     },
     {
       "sn": 2,
-      "projectTitle": "prowessIndex",
-      "periodStart": "June 2017",
-      "periodEnd": "June 2017",
+      "projectTitle": "Terrain Based Probabilistic Path Planner",
+      "periodStart": "November 2020",
+      "periodEnd": "Present",
       "toolsUsed": [
-        "python",
-        "flask",
-        "pandas"
+        "pytorch",
+        "pybullet",
+        "scikit",
       ],
       "tags": [
         "python",
-        "data analytics"
+        "data analytics",
+        "supervised learning",
+        "autonomous navigation",
       ],
-      "shortInfo": "This is a simple flask web app implementation of a paper that I'm writing 'Making Sense of Numbers'. This paper proposes method for deriving inferences about prowessness of a stduent using attained graded.",
-      "link": "http://novatoscript.pythonanywhere.com/"
+      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
+      "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
     },
     {
       "sn": 7,
