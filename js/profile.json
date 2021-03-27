@@ -56,58 +56,40 @@
           "sn": 8
         },
         {
-          "courseCode": "3IT301",
-          "courseName": "Database Engineering",
-          "courseScore": "9/10",
+          "courseName": "Data Structures and Algorithms",
+          "sn": 9
+        },
+        {
+          "courseName": "Database and Management Systems",
+          "sn": 10
+        },
+        {
+          "courseName": "Discrete Mathematics",
+          "sn": 11
+        },
+        {
+          "courseName": "Theory of Computation",
           "sn": 12
         },
         {
-          "courseCode": "3IT321",
-          "courseName": "Advanced Database Engineering",
-          "courseScore": "9/10",
+          "courseName": "Operating Systems",
           "sn": 13
         },
         {
-          "courseCode": "3IT204",
-          "courseName": "Data Communication and Networking",
-          "courseScore": "7/10",
+          "courseName": "Computer Architecture",
+          "sn": 14
+        },
+        {
+          "courseName": "Linear Algebra",
           "sn": 15
         },
         {
-          "courseCode": "3IT213",
-          "courseName": "Computer and Wireless Networks",
-          "courseScore": "6/10",
+          "courseName": "Differential Calculus",
           "sn": 16
         },
         {
-          "courseCode": "3IT263",
-          "courseName": "Computer and Wireless Networks Lab",
-          "courseScore": "8/10",
-          "sn": 34
-        },
-        {
-          "courseCode": "3IT212",
-          "courseName": "Computer Organization and Architechture",
-          "courseScore": "7/10",
-          "sn": 18
-        },
-        {
-          "courseCode": "3IT372",
-          "courseName": "Parallel Programming Lab",
-          "courseScore": "10/10",
-          "sn": 32
-        },
-        {
-          "courseCode": "3IT324",
-          "courseName": "Information Storage and Management",
-          "courseScore": "6/10",
-          "sn": 21
-        },
-        {
-          "courseCode": "3MA204",
-          "courseName": "Linear Algebra",
-          "courseScore": "7/10",
-          "sn": 7
+          "courseName": "Logic in Computer Science",
+          "sn": 17
         },
         {
           "courseCode": "3MA215",
