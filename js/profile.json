@@ -225,7 +225,78 @@
       "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
       "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
     },
-    
+    {
+      "sn": 4,
+      "projectTitle": "SONATA: A tool to generate social navigation dataset",
+      "periodStart": "May 2020",
+      "periodEnd": "October 2020",
+      "toolsUsed": [
+        "Pytorch",
+        "DGL",
+        "Coppeliasim",
+        "Pytorch-geometric"
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "gnns"
+      ],
+      "shortInfo": "A toolkit to generate HRI dataset.",
+      "link": "http://www.gnns4hri.org/pages/sonata.html"
+    },
+    {
+      "sn": 5,
+      "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
+      "periodStart": "May 2020",
+      "periodEnd": "October 2020",
+      "toolsUsed": [
+        "Pytorch",
+        "DGL",
+        "Coppeliasim",
+        "Pytorch-geometric"
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "gnns"
+      ],
+      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
+      "link": "https://github.com/gnns4hri/SNGNN-RL"
+    },
+    {
+      "sn": 6,
+      "projectTitle": "Speech Classification using Spiking Neural Networks",
+      "periodStart": "May 2019",
+      "periodEnd": "June 2020",
+      "toolsUsed": [
+        "PYNN",
+        "SPiNNaker",
+        "Jupyter",
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "snns"
+      ],
+      "shortInfo": "Develop an inexpensie devise to classify speech without internet connectivity.",
+      "link": ""
+    },
+    {
+      "sn": 7,
+      "projectTitle": "Visual Categorization Study",
+      "periodStart": "May 2019",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Django",
+      ],
+      "tags": [
+        "python",
+        "webapp",
+        "modeling"
+      ],
+      "shortInfo": "A study of categorization strategy used by adult humans.",
+      "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
+    },
   ],
   "summary": "<p>Hello, I'm a Computer science enthusiast and B.Tech Information Technology graduate having 2 years of experience as Software Development Engineer in Internet/Ad-Tech industry. As of now I'm involved in developing distributed system software for Storage Management.</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
   "profileLinks": [
