@@ -645,20 +645,20 @@
     },
     {
       "sn": 5,
-      "projectTitle": "Book Bank Allotment System",
-      "periodStart": "Jan 2017",
-      "periodEnd": "May 2017",
+      "projectTitle": "Speech Classification using Spiking Neural Networks",
+      "periodStart": "May 2019",
+      "periodEnd": "June 2020",
       "toolsUsed": [
-        "php",
-        "mongodb",
-        "js"
+        "PYNN",
+        "SPiNNaker",
+        "Jupyter"
       ],
       "tags": [
-        "mongodb",
-        "nosql",
-        "php"
+        "python",
+        "simulation",
+        "snns"
       ],
-      "shortInfo": "Developed a Web Application using PHP and MongoDB for Book Bank Allotment done by AGCL library of WCE, Sangli. Automated process of Allocation, it was done manually and use to take almost 15-20 days for completion. Our system does it in a single day.",
+      "shortInfo": "Develop an inexpensie devise to classify speech without internet connectivity.",
       "link": "#"
     },
     {
@@ -680,25 +680,6 @@
       ],
       "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
       "link": "https://github.com/gnns4hri/SNGNN-RL"
-    },
-    {
-      "sn": 10,
-      "projectTitle": "JNV Washim Alumni Portal",
-      "periodStart": "Dec 2015",
-      "periodEnd": "Jan 2016",
-      "toolsUsed": [
-        "php",
-        "mysql",
-        "js"
-      ],
-      "tags": [
-        "webapp",
-        "php",
-        "mysql",
-        "js"
-      ],
-      "shortInfo": "Developed a Web Application for Alumni Portal of Jawahar Navodaya Vidyalaya,Washim. It's developed using PHP, HTML, CSS,JavaScript, Bootstrap. All out of scratch. We used MySQL database . Alumni of JNV Washim have to register here with there details and we can searchfor Alumnus with filters.",
-      "link": "http://www.jnvwashimalumni.org/"
     },
     {
       "sn": 6,
