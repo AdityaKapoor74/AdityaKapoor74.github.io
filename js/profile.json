@@ -108,57 +108,11 @@
           "sn": 21
         },
         {
-          "courseCode": "3IT281",
-          "courseName": "Mini Project - I",
-          "courseScore": "10/10",
+          "courseName": "Microprocessors",
           "sn": 22
         },
         {
-          "courseCode": "3IT214",
-          "courseName": "System Programming",
-          "courseScore": "7/10",
-          "sn": 19
-        },
-        {
-          "courseCode": "3IT255",
-          "courseName": "Programming Lab - I (C++)",
-          "courseScore": "10/10",
-          "sn": 26
-        },
-        {
-          "courseCode": "3IT352",
-          "courseName": "Web Technology Lab",
-          "courseScore": "9/10",
-          "sn": 33
-        },
-        {
-          "courseCode": "3IT342",
-          "courseName": "Mini Project - IV",
-          "courseScore": "10/10",
-          "sn": 25
-        },
-        {
-          "courseCode": "3IT341",
-          "courseName": "Mini-Project - III",
-          "courseScore": "10/10",
-          "sn": 24
-        },
-        {
-          "courseCode": "3IT302",
-          "courseName": "Software Engineering Design",
-          "courseScore": "7/10",
-          "sn": 20
-        },
-        {
-          "courseCode": "3IT371",
-          "courseName": "Unix Operating System Lab",
-          "courseScore": "10/10",
-          "sn": 30
-        },
-        {
-          "courseCode": "3IT282",
-          "courseName": "Mini Project - II",
-          "courseScore": "10/10",
+          "courseName": "Digital Design",
           "sn": 23
         },
         {
