@@ -511,6 +511,12 @@
       "icon": "linkedin.svg",
       "link": "https://www.linkedin.com/in/aditya-kapoor-446727152/",
       "sn": 1
+    },
+    {
+      "name": "GoogleScholar",
+      "icon": "linkedin.svg",
+      "link": "https://scholar.google.com/citations?user=UPH3tawAAAAJ&hl=en",
+      "sn": 3
     }
   ],
   "likes": [
