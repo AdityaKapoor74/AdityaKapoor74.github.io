@@ -510,21 +510,21 @@
     },
     {
       "sn": 7,
-      "projectTitle": "FollowScreen",
-      "periodStart": "Jul 2016",
-      "periodEnd": "Jul 2016",
+      "projectTitle": "Project Kratos: MARS ROVER",
+      "periodStart": "July 2018",
+      "periodEnd": "June 2020",
       "toolsUsed": [
         "python",
-        "pyautogui",
-        "tkinter"
+        "ROS",
+        "pyQt"
       ],
       "tags": [
-        "screen-recording",
+        "robotics",
         "python",
-        "autmation"
+        "autonomous navigation"
       ],
-      "shortInfo": "Its a screen recorder written in python. It records the screen activities.I used PyAutoGUI and PIL modules for this.Audio capturing is yet to be added.",
-      "link": "https://github.com/moghya/followscreen"
+      "shortInfo": "Autonomous Navigation of a Mars Rover in a partially known terrain.",
+      "link": "https://kratosbitsgoa.com/"
     },
     {
       "sn": 5,
