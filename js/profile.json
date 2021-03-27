@@ -376,7 +376,7 @@
       "periodStart": "May 2020",
       "periodEnd": "Present",
       "organisation": "Biorobotics Lab, Carnegie Mellon University",
-      "experience": "I am working on the credit assignment problem in reinforcement learning in multiagent systems. The aim is to determine which actions taken by agents in a large group of cooperating agents helped the group achieve its goal and hence learn more rapidly. The inspiration came from real life, wherein people tend to choose companions who motivate them to reach their goals and do not assign as much importance to those who don’t. Along with this, I am working on a probabilistic terrain-based path planner in the Biorobotics lab. The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
+      "experience": "Working on Multiagent systems and path planning.",
       "type": "collaboration"
     },
     {
@@ -386,7 +386,7 @@
       "periodStart": "May 2020",
       "periodEnd": "Present",
       "organisation": "Robocomp, UK",
-      "experience": "I worked on a tool to generate datasets on different social scenarios with human-human and human-object interactions. This data can be used to train robots to conduct socially-aware navigation. We successfully published this work at the Workshop of Physical Agents (WAF2020). Currently, we are using this tool to gather data to train a graph-based deep reinforcement learning algorithm to navigate a robot in a socially-dense environment without disturbing any human-object or human-human interaction.",
+      "experience": "Working on Human Robot Interaction.",
       "type": "collaboration"
     },
     {
