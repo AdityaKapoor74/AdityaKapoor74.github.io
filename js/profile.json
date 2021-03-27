@@ -40,28 +40,20 @@
           "sn": 4
         },
         {
-          "courseCode": "3IT211",
-          "courseName": "Theory of Computation",
-          "courseScore": "8/10",
+          "courseName": "Advanced Robotics",
           "sn": 5
         },
         {
-          "courseCode": "3IT201",
-          "courseName": "Discrete Mathemactics",
-          "courseScore": "7/10",
+          "courseName": "Cognitive Neuroscience",
           "sn": 6
         },
         {
-          "courseCode": "3IT303",
-          "courseName": "Operating System",
-          "courseScore": "8/10",
-          "sn": 10
+          "courseName": "Neuronal Dynamics",
+          "sn": 7
         },
         {
-          "courseCode": "3IT322",
-          "courseName": "Unix Operating System",
-          "courseScore": "8/10",
-          "sn": 11
+          "courseName": "Behavioral Psychology",
+          "sn": 8
         },
         {
           "courseCode": "3IT301",
