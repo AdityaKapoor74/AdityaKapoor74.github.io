@@ -452,6 +452,119 @@
   ],
   "projects": [
     {
+      "sn": 14,
+      "projectTitle": "Traffic Rules",
+      "periodStart": "July 2015",
+      "periodEnd": "Nov 2015",
+      "toolsUsed": [
+        "Blender",
+        "Movie Maker"
+      ],
+      "tags": [
+        "blender",
+        "animation",
+        "3d-modelling",
+        "traffic rules"
+      ],
+      "shortInfo": "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III.",
+      "link": "https://github.com/moghya/Traffic-Rules"
+    },
+    {
+      "sn": 13,
+      "projectTitle": "Smart Hospital Management",
+      "periodStart": "Aug 2015",
+      "periodEnd": "Sep 2015",
+      "toolsUsed": [
+        "c++",
+        "qt"
+      ],
+      "tags": [
+        "oop",
+        "c++",
+        "qt",
+        "gui",
+        "files"
+      ],
+      "shortInfo": "C++ Qt Standalone Application keeps track of every patient and its visits. Data collected can be used for Projects of Data Mining and Machine Learning as data sets.",
+      "link": "https://github.com/moghya/smartHMS"
+    },
+    {
+      "sn": 12,
+      "projectTitle": "Seat Allocation",
+      "periodStart": "Dec 2015",
+      "periodEnd": "Dec 2015",
+      "toolsUsed": [
+        "c++"
+      ],
+      "tags": [
+        "c++",
+        "gayle-shapely",
+        "ds",
+        "oop"
+      ],
+      "shortInfo": "Simulation of college seat allocation process. Choice filling and Seat Allocation are performed. Modified Gayle-Shapely Algorithm implemented. Can be scaled using C++ CGI for deployment.",
+      "link": "https://github.com/moghya/collegeSeatAllocationPrototype"
+    },
+    {
+      "sn": 11,
+      "projectTitle": "Online External Examination Portal",
+      "periodStart": "Feb 2016",
+      "periodEnd": "May 2016",
+      "toolsUsed": [
+        "php",
+        "js",
+        "mysql",
+        "html",
+        "css",
+        "bootstrap"
+      ],
+      "tags": [
+        "php",
+        "js",
+        "bootstrap",
+        "mysql"
+      ],
+      "shortInfo": "It's a web application developed using PHP , MySQL, Bootstrap, JavaScript etc. for conducting practical exams online.",
+      "link": "https://github.com/moghya/external-exam-portal"
+    },
+    {
+      "sn": 9,
+      "projectTitle": "LookIn",
+      "periodStart": "Mar 2016",
+      "periodEnd": "May 2016",
+      "toolsUsed": [
+        "python",
+        "sqllite3",
+        "beautifulsoup",
+        "requests"
+      ],
+      "tags": [
+        "search engine",
+        "python",
+        "indexing",
+        "web scraping"
+      ],
+      "shortInfo": "It's a search engine made using Python, Beautifulsoup . Which crawls downloaded websites and indexes them. After one time indexing it delivers search results ",
+      "link": ""
+    },
+    {
+      "sn": 3,
+      "projectTitle": "dsalglib ",
+      "periodStart": "May 2016",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "c++"
+      ],
+      "tags": [
+        "ds",
+        "algo",
+        "template",
+        "c++"
+      ],
+      "shortInfo": "Its a ready to use data structures and algorithms c++ template library.Many useful data structures and algorithms are implemented . One should just focus on his/her project necessity and dsalglib will take care of data structures and algorithms.",
+      "link": "http://moghya.me/dsalglib/"
+    },
+    {
       "sn": 1,
       "projectTitle": "Partial Reward Decoupling",
       "periodStart": "June 2020",
@@ -471,93 +584,134 @@
     },
     {
       "sn": 2,
-      "projectTitle": "Terrain Based Probabilistic Path Planner",
-      "periodStart": "November 2020",
-      "periodEnd": "Present",
+      "projectTitle": "prowessIndex",
+      "periodStart": "June 2017",
+      "periodEnd": "June 2017",
       "toolsUsed": [
-        "Pytorch",
-        "Pybullet",
+        "python",
+        "flask",
+        "pandas"
       ],
       "tags": [
         "python",
-        "simulation",
-        "cnns"
+        "data analytics"
       ],
-      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
-      "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
-    },
-    {
-      "sn": 4,
-      "projectTitle": "SONATA: A tool to generate social navigation dataset",
-      "periodStart": "May 2020",
-      "periodEnd": "October 2020",
-      "toolsUsed": [
-        "Pytorch",
-        "DGL",
-        "Coppeliasim",
-        "Pytorch-geometric"
-      ],
-      "tags": [
-        "python",
-        "simulation",
-        "gnns"
-      ],
-      "shortInfo": "A toolkit to generate HRI dataset.",
-      "link": "http://www.gnns4hri.org/pages/sonata.html"
-    },
-    {
-      "sn": 5,
-      "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
-      "periodStart": "May 2020",
-      "periodEnd": "October 2020",
-      "toolsUsed": [
-        "Pytorch",
-        "DGL",
-        "Coppeliasim",
-        "Pytorch-geometric"
-      ],
-      "tags": [
-        "python",
-        "simulation",
-        "gnns"
-      ],
-      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
-      "link": "https://github.com/gnns4hri/SNGNN-RL"
-    },
-    {
-      "sn": 6,
-      "projectTitle": "Speech Classification using Spiking Neural Networks",
-      "periodStart": "May 2019",
-      "periodEnd": "June 2020",
-      "toolsUsed": [
-        "PYNN",
-        "SPiNNaker",
-        "Jupyter",
-      ],
-      "tags": [
-        "python",
-        "simulation",
-        "snns"
-      ],
-      "shortInfo": "Develop an inexpensie devise to classify speech without internet connectivity.",
-      "link": ""
+      "shortInfo": "This is a simple flask web app implementation of a paper that I'm writing 'Making Sense of Numbers'. This paper proposes method for deriving inferences about prowessness of a stduent using attained graded.",
+      "link": "http://novatoscript.pythonanywhere.com/"
     },
     {
       "sn": 7,
-      "projectTitle": "Visual Categorization Study",
-      "periodStart": "May 2019",
-      "periodEnd": "Present",
+      "projectTitle": "FollowScreen",
+      "periodStart": "Jul 2016",
+      "periodEnd": "Jul 2016",
       "toolsUsed": [
-        "Django",
+        "python",
+        "pyautogui",
+        "tkinter"
       ],
       "tags": [
+        "screen-recording",
         "python",
-        "webapp",
-        "modeling"
+        "autmation"
       ],
-      "shortInfo": "A study of categorization strategy used by adult humans.",
-      "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
+      "shortInfo": "Its a screen recorder written in python. It records the screen activities.I used PyAutoGUI and PIL modules for this.Audio capturing is yet to be added.",
+      "link": "https://github.com/moghya/followscreen"
     },
+    {
+      "sn": 8,
+      "projectTitle": "Digital Library Portal",
+      "periodStart": "Feb 2017",
+      "periodEnd": "May 2017",
+      "toolsUsed": [
+        "QuilJs",
+        "php",
+        "mysql",
+        "JavaScript"
+      ],
+      "tags": [
+        "webapp",
+        "php",
+        "mysql",
+        "js",
+        "materialize"
+      ],
+      "shortInfo": "According to the requirements taken Developed a Digital Library Portal for College Library. All of the sections are dynamic and everything is editable using Admin Panel. Used Quill-Js for implementing Editor for Admin. PHP, MySQL is used.",
+      "link": "#"
+    },
+    {
+      "sn": 5,
+      "projectTitle": "Book Bank Allotment System",
+      "periodStart": "Jan 2017",
+      "periodEnd": "May 2017",
+      "toolsUsed": [
+        "php",
+        "mongodb",
+        "js"
+      ],
+      "tags": [
+        "mongodb",
+        "nosql",
+        "php"
+      ],
+      "shortInfo": "Developed a Web Application using PHP and MongoDB for Book Bank Allotment done by AGCL library of WCE, Sangli. Automated process of Allocation, it was done manually and use to take almost 15-20 days for completion. Our system does it in a single day.",
+      "link": "#"
+    },
+    {
+      "sn": 4,
+      "projectTitle": "Detection and Prevention of Black hole Attack in MANET",
+      "periodStart": "Jul 2016",
+      "periodEnd": "Nov 2016",
+      "toolsUsed": [
+        "c++",
+        "ns2",
+        "tcl",
+        "awk"
+      ],
+      "tags": [
+        "c++",
+        "blackhole-attack",
+        "ns2"
+      ],
+      "shortInfo": "It was a Team Project. We made changes in AODV protocol to simulate Black hole attack in Mobile and Adhoc Network​ and later implemented techniques for prevention of the Attack.",
+      "link": "#"
+    },
+    {
+      "sn": 10,
+      "projectTitle": "JNV Washim Alumni Portal",
+      "periodStart": "Dec 2015",
+      "periodEnd": "Jan 2016",
+      "toolsUsed": [
+        "php",
+        "mysql",
+        "js"
+      ],
+      "tags": [
+        "webapp",
+        "php",
+        "mysql",
+        "js"
+      ],
+      "shortInfo": "Developed a Web Application for Alumni Portal of Jawahar Navodaya Vidyalaya,Washim. It's developed using PHP, HTML, CSS,JavaScript, Bootstrap. All out of scratch. We used MySQL database . Alumni of JNV Washim have to register here with there details and we can searchfor Alumnus with filters.",
+      "link": "http://www.jnvwashimalumni.org/"
+    },
+    {
+      "sn": 6,
+      "projectTitle": "toGithub",
+      "periodStart": "May 2017",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python",
+        "PyGithub",
+        "requests",
+        "beautifulsoup"
+      ],
+      "tags": [
+        "scraping",
+        "git-api"
+      ],
+      "shortInfo": "A python app developed for scraping solutions from Sport Programming Websites and uploding them to Github.",
+      "link": "https://github.com/moghya/toGithub"
+    }
   ],
   "summary": "<p>Hello, I'm a Computer science enthusiast and B.Tech Information Technology graduate having 2 years of experience as Software Development Engineer in Internet/Ad-Tech industry. As of now I'm involved in developing distributed system software for Storage Management.</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
   "profileLinks": [
