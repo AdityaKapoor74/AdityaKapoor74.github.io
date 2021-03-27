@@ -370,14 +370,14 @@
   ],
   "experince": [
     {
-      "sn": 6,
-      "link": "",
-      "workPosition": "Scout Troop Leader",
-      "periodStart": "April 2010",
-      "periodEnd": "May 2012",
-      "organisation": "JNV,Washim",
-      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
-      "type": "volunteer"
+      "sn": 1,
+      "link": "http://biorobotics.ri.cmu.edu/",
+      "workPosition": "Research Intern",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "organisation": "Biorobotics Lab, Carnegie Mellon University",
+      "experience": "I am working on the credit assignment problem in reinforcement learning in multiagent systems. The aim is to determine which actions taken by agents in a large group of cooperating agents helped the group achieve its goal and hence learn more rapidly. The inspiration came from real life, wherein people tend to choose companions who motivate them to reach their goals and do not assign as much importance to those who don’t. Along with this, I am working on a probabilistic terrain-based path planner in the Biorobotics lab. The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
+      "type": "collaboration"
     },
     {
       "sn": 5,
