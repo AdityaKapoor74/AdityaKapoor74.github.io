@@ -90,6 +90,106 @@
         {
           "courseName": "Logic in Computer Science",
           "sn": 17
+        },
+        {
+          "courseName": "Principles of Programming Language",
+          "sn": 18
+        },
+        {
+          "courseName": "Computer Networks",
+          "sn": 19
+        },
+        {
+          "courseName": "Compiler Construction",
+          "sn": 20
+        },
+        {
+          "courseName": "Information Retrieval",
+          "sn": 21
+        },
+        {
+          "courseCode": "3IT281",
+          "courseName": "Mini Project - I",
+          "courseScore": "10/10",
+          "sn": 22
+        },
+        {
+          "courseCode": "3IT214",
+          "courseName": "System Programming",
+          "courseScore": "7/10",
+          "sn": 19
+        },
+        {
+          "courseCode": "3IT255",
+          "courseName": "Programming Lab - I (C++)",
+          "courseScore": "10/10",
+          "sn": 26
+        },
+        {
+          "courseCode": "3IT352",
+          "courseName": "Web Technology Lab",
+          "courseScore": "9/10",
+          "sn": 33
+        },
+        {
+          "courseCode": "3IT342",
+          "courseName": "Mini Project - IV",
+          "courseScore": "10/10",
+          "sn": 25
+        },
+        {
+          "courseCode": "3IT341",
+          "courseName": "Mini-Project - III",
+          "courseScore": "10/10",
+          "sn": 24
+        },
+        {
+          "courseCode": "3IT302",
+          "courseName": "Software Engineering Design",
+          "courseScore": "7/10",
+          "sn": 20
+        },
+        {
+          "courseCode": "3IT371",
+          "courseName": "Unix Operating System Lab",
+          "courseScore": "10/10",
+          "sn": 30
+        },
+        {
+          "courseCode": "3IT282",
+          "courseName": "Mini Project - II",
+          "courseScore": "10/10",
+          "sn": 23
+        },
+        {
+          "courseCode": "3IT265",
+          "courseName": "Programming Lab - II (Java)",
+          "courseScore": "10/10",
+          "sn": 27
+        },
+        {
+          "courseCode": "3IT312",
+          "courseName": "Cloud Computing",
+          "courseScore": "7/10",
+          "sn": 14
+        },
+        {
+          "courseCode": "3IT323",
+          "courseName": "Information Theory",
+          "courseScore": "8/10",
+          "sn": 9
+        },
+        {
+          "courseCode": "2IT253",
+          "courseName": "Processor Architechture Lab",
+          "courseScore": "10/10",
+          "sn": 28
+        },
+        {
+          "courseCode": "3IT351",
+          "courseName": "Database Engineering Lab",
+          "courseScore": "10/10",
+          "sn": 31
         }
       ]
     }
