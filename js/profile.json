@@ -451,59 +451,59 @@
     }
   ],
   "projects": [
-    {
-      "sn": 4,
-      "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
-      "periodStart": "May 2020",
-      "periodEnd": "October 2020",
-      "toolsUsed": [
-        "Pytorch",
-        "DGL",
-        "Coppeliasim",
-        "Pytorch-geometric"
-      ],
-      "tags": [
-        "python",
-        "simulation",
-        "gnns"
-      ],
-      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
-      "link": "https://github.com/gnns4hri/SNGNN-RL"
-    },
-    {
-      "sn": 5,
-      "projectTitle": "Speech Classification using Spiking Neural Networks",
-      "periodStart": "May 2019",
-      "periodEnd": "June 2020",
-      "toolsUsed": [
-        "PYNN",
-        "SPiNNaker",
-        "Jupyter",
-      ],
-      "tags": [
-        "python",
-        "simulation",
-        "snns"
-      ],
-      "shortInfo": "Develop an inexpensie devise to classify speech without internet connectivity.",
-      "link": "https://docs.google.com/presentation/d/1Zmg4gBQcuojgY2Qy23HcO9APuT8yd88PP-JqojvJyus/edit?usp=sharing"
-    },
-    {
-      "sn": 6,
-      "projectTitle": "Visual Categorization Study",
-      "periodStart": "May 2019",
-      "periodEnd": "Present",
-      "toolsUsed": [
-        "Django",
-      ],
-      "tags": [
-        "python",
-        "webapp",
-        "modeling"
-      ],
-      "shortInfo": "A study of categorization strategy used by adult humans.",
-      "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
-    },
+    // {
+    //   "sn": 4,
+    //   "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
+    //   "periodStart": "May 2020",
+    //   "periodEnd": "October 2020",
+    //   "toolsUsed": [
+    //     "Pytorch",
+    //     "DGL",
+    //     "Coppeliasim",
+    //     "Pytorch-geometric"
+    //   ],
+    //   "tags": [
+    //     "python",
+    //     "simulation",
+    //     "gnns"
+    //   ],
+    //   "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
+    //   "link": "https://github.com/gnns4hri/SNGNN-RL"
+    // },
+    // {
+    //   "sn": 5,
+    //   "projectTitle": "Speech Classification using Spiking Neural Networks",
+    //   "periodStart": "May 2019",
+    //   "periodEnd": "June 2020",
+    //   "toolsUsed": [
+    //     "PYNN",
+    //     "SPiNNaker",
+    //     "Jupyter",
+    //   ],
+    //   "tags": [
+    //     "python",
+    //     "simulation",
+    //     "snns"
+    //   ],
+    //   "shortInfo": "Develop an inexpensie devise to classify speech without internet connectivity.",
+    //   "link": "https://docs.google.com/presentation/d/1Zmg4gBQcuojgY2Qy23HcO9APuT8yd88PP-JqojvJyus/edit?usp=sharing"
+    // },
+    // {
+    //   "sn": 6,
+    //   "projectTitle": "Visual Categorization Study",
+    //   "periodStart": "May 2019",
+    //   "periodEnd": "March 2021",
+    //   "toolsUsed": [
+    //     "Django",
+    //   ],
+    //   "tags": [
+    //     "python",
+    //     "webapp",
+    //     "modeling"
+    //   ],
+    //   "shortInfo": "A study of categorization strategy used by adult humans.",
+    //   "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
+    // },
     {
       "sn": 3,
       "projectTitle": "SONATA: A tool to generate social navigation dataset",
