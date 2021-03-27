@@ -24,7 +24,7 @@
       "board": "BITS",
       "courses": [
         {
-          "courseName": "Data Structures",
+          "courseName": "Deep Reinforcement Learning",
           "sn": 1
         },
         {
