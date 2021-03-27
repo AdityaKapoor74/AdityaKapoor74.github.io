@@ -549,20 +549,22 @@
     },
     {
       "sn": 3,
-      "projectTitle": "dsalglib ",
-      "periodStart": "May 2016",
-      "periodEnd": "Present",
+      "projectTitle": "SONATA: A tool to generate social navigation dataset",
+      "periodStart": "May 2020",
+      "periodEnd": "October 2020",
       "toolsUsed": [
-        "c++"
+        "Pytorch",
+        "DGL",
+        "Coppeliasim",
+        "Pytorch-geometric"
       ],
       "tags": [
-        "ds",
-        "algo",
-        "template",
-        "c++"
+        "python",
+        "simulation",
+        "gnns"
       ],
-      "shortInfo": "Its a ready to use data structures and algorithms c++ template library.Many useful data structures and algorithms are implemented . One should just focus on his/her project necessity and dsalglib will take care of data structures and algorithms.",
-      "link": "http://moghya.me/dsalglib/"
+      "shortInfo": "A toolkit to generate HRI dataset.",
+      "link": "http://www.gnns4hri.org/pages/sonata.html"
     },
     {
       "sn": 1,
