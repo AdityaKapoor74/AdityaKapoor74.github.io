@@ -5,7 +5,7 @@ function loadSkills(skills){
 
 			var row = '<div class="row">';
 			for(j=i;j<i+6&&j<skills.length;j++){
-				var skill = '<div class="col m2"><object type="image/svg+xml" data="img/'+skills[j].icon+'"></object>'+skills[j].name+'</div>';
+				var skill = '<div class="col m2"><object type="image/svg+xml" data="img/'+skills[j].icon+'" width="128" height="128"></object>'+skills[j].name+'</div>';
 				row+=skill;
 				
 			}
@@ -204,7 +204,7 @@ function loadAdiSays() {
 	</div>;`
 	$('#moghyaSays').html(moghyaSaysInnerHtml);
 }
-
+img
 
 $.get("js/profile.json", 
 	function(data, status){
