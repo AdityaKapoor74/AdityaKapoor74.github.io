@@ -129,6 +129,76 @@
       "organisation": "JNV,Washim",
       "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
       "type": "volunteer"
+    },
+    {
+      "sn": 5,
+      "link": "http://wcepace.in/",
+      "workPosition": "Asst. Program Director in Events",
+      "periodStart": "April 2015",
+      "periodEnd": "March 2016",
+      "organisation": "Personality Advancement Circle of Engineers.",
+      "experience": "Learnt how to organize professional events and actvites, how to manage resources and make most out of everything.",
+      "type": "volunteer"
+    },
+    {
+      "sn": 4,
+      "link": "http://wcepace.in/",
+      "workPosition": "Joint. Skills Developer",
+      "periodStart": "April 2016",
+      "periodEnd": "January 2017",
+      "organisation": "Personality Advancement Circle of Engineers.",
+      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
+      "type": "volunteer"
+    },
+    {
+      "sn": 3,
+      "link": "http://wcepace.in/",
+      "workPosition": "Cheif. Skills Developer",
+      "periodStart": "January 2017",
+      "periodEnd": "December 2017",
+      "organisation": "Personality Advancement Circle of Engineers.",
+      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
+      "type": "volunteer"
+    },
+    {
+      "sn": 2,
+      "link": "http://pitchteq.com/",
+      "workPosition": "PHP Developer",
+      "periodStart": "July 2016",
+      "periodEnd": "July 2018",
+      "organisation": "PitchTeQ ",
+      "experience": "A group of college students established a web solutions startup. Worked on an e-commerce project.",
+      "type": "work"
+    },
+    {
+      "sn": 1,
+      "link": "http://www.praxisinfotech.com/",
+      "workPosition": "Web Development Intern",
+      "periodStart": "June 2017",
+      "periodEnd": "July 2017",
+      "organisation": "Praxis Infotech ",
+      "experience": "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places and events.",
+      "type": "work"
+    },
+    {
+      "sn": 0,
+      "link": "https://www.media.net/",
+      "workPosition": "Software Development Engineer",
+      "periodStart": "July 2018",
+      "periodEnd": "Feb 2020",
+      "organisation": "Media.Net",
+      "experience": "<ul><li>Involved in designing, developing features and parts of an App Distribution platform.</li><li>Majorly my work involves:</li><ul><li>– Designing, writing and consuming HTTP-REST APIs.</li><li>– Setting up job queues for multiple monitoring tasks.</li><li>– Writing template code for full-stack Web and Desktop applications.</li><li>– Automating and setting up application build processes.</li><li>– Extensive research and POC creation of features,solutions for novel business requirements.</li><li>– Identifying bottlenecks across system and optimize database queries, page load time, serving time, build time.</li></ul><li>Developed node-js, python back-end applications for automating and monitoring application build processes.</li><li>Developed node-js module for restructuring and renaming directory tree, handled resolution of interlinked file-paths in files.</li><li>Developed macOs desktop application(A Safari App Extension) using Swift for search monetization with app installer and app auto update feature from scratch</li></ul>",
+      "type": "work"
+    },
+    {
+      "sn": -1,
+      "link": "https://www.cohesity.com",
+      "workPosition": "Member of Technical Staff",
+      "periodStart": "Feb 2020",
+      "periodEnd": "Present",
+      "organisation": "Cohesity",
+      "experience": "<ul><li>\nDevelopingdistributedsystemsoftwareusingC++,Golangfordataprotection.</li></ul>",
+      "type": "work"
     }
   ],
   "projects": [
