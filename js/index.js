@@ -5,7 +5,7 @@ function loadSkills(skills){
 
 		var row = '<div class="row">';
 		for(j=i;j<i+6&&j<skills.length;j++){
-			var skill = '<div class="col s2"><img src="img/'+skills[j].icon+'" alt="'+skills[j].name+'"></div>';
+			var skill = '<object type="image/svg+xml" data="img/'+skills[j].icon+'">'+skills[i].name+'</object>'
 			row+=skill;
 			
 		}
