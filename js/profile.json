@@ -1,14 +1,13 @@
 {
   "personalInfo": {
-    "myimg": "profilePic.jpg",
+    "myimg": "profilepic.jpg",
     "fname": "Aditya",
     "mname": "Manish",
     "lname": "Kapoor",
     "nick": "adi",
     "address": {
       "list": [
-        "Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
-        "'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
+        "1602 Daffodil Neelkanth Gardens Govandi East Opposite Jain Mandir, Mumbai-400088"
       ]
     },
     "email": "adityakapoor074@gmail.com",
