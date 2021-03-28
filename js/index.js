@@ -204,7 +204,7 @@ function loadAdiSays() {
 	</div>;`
 	$('#moghyaSays').html(moghyaSaysInnerHtml);
 }
-img
+
 
 $.get("js/profile.json", 
 	function(data, status){
