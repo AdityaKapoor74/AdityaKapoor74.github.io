@@ -171,13 +171,13 @@
       "type": "work"
     },
     {
-      "sn": 1,
-      "link": "http://www.praxisinfotech.com/",
+      "sn": 2,
+      "link": "https://smartifyworld.com/",
       "workPosition": "Web Development Intern",
-      "periodStart": "June 2017",
-      "periodEnd": "July 2017",
-      "organisation": "Praxis Infotech ",
-      "experience": "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places and events.",
+      "periodStart": "May 2018",
+      "periodEnd": "July 2018",
+      "organisation": "Smartify World Pvt Limited",
+      "experience": "Used the Django framework to deploy a dashboard for the Parking System which is currently functional in Dubai",
       "type": "work"
     },
     {
