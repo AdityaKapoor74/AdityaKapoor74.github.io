@@ -442,3 +442,16 @@ function loadSkills(skills){
   }
   $('#skills').html(skillsInnerHTML);
 }
+
+
+function loadSkills(skills){
+  likes = skills.sort(function(a,b){
+    return a.sn-b.sn;
+  });
+  var i;
+  var skillsInnerHTML = '';
+  for(i=0;i<skills.length;i++){
+    skillsInnerHTML+='<div class="col m2"><object type="image/svg+xml" data="img/'+skills[i].icon+'">'+skills[i].name+'</object></div>'
+  }
+  $('#skills').html(skillsInnerHTML);
+}

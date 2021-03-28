@@ -1,13 +1,20 @@
 function loadSkills(skills){
-	likes = skills.sort(function(a,b){
-		return a.sn-b.sn;
-	});
-	var i;
-	var skillsInnerHTML = '';
-	for(i=0;i<skills.length;i++){
-		skillsInnerHTML+='<object type="image/svg+xml" data="img/'+skills[i].icon+'">'+skills[i].name+'</object>'
-	}
-	$('#skills').html(skillsInnerHTML);
+		var i=0,j;
+		var skillsInnerHTML='';
+		while(i<skills.length){
+
+			var row = '<div class="row">';
+			for(j=i;j<i+6&&j<skills.length;j++){
+				var skill = '<div class="col m2"><object type="image/svg+xml" data="img/'+skills[j].icon+'"></object>'+skills[j].name+'</div>';
+				row+=skill;
+				
+			}
+			row+='</div>';
+			skillsInnerHTML+=row;
+			
+			i=j;
+		}
+		$('#skills').html(skillsInnerHTML);
 }
 
 
@@ -109,10 +116,6 @@ function loadLikes(likes){
 	$('#likes').html(likesInnerHTML);
 }
 
-function loadBlog() {
-	var blogHtml = `<div class='sk-ww-medium-publication-feed' data-embed-id='26322'></div><script src='https://www.sociablekit.com/app/embed/medium-publication-feed/widget.js'></script>`;
-	$('#blog').html(blogHtml);	
-}
 
 function onBodyLoad(){
 	console.log('body loaded called');
