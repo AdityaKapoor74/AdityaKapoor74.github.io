@@ -77,7 +77,7 @@ function loadEducations(educations){
 		});
 		var coursesInnerHTML = '';
 		for(j=0;j<courses.length;j++){
-				coursesInnerHTML+='<div class="row"><div class="col m8 s8">'+courses[j].courseName+'</div>></div>';
+				coursesInnerHTML+='<div class="row"><div class="col m8 s8">'+courses[j].courseName+'</div></div>';
 		}
 		education+=coursesInnerHTML;
 		education +='</div></li></ul></div></div>';
