@@ -119,21 +119,36 @@
     }
   ],
   "skills": [
-    {
-      "sn": 1,
-      "name": "Python",
-      "icon": "python.png"
-    },
-    {
-      "sn": 2,
-      "name": "Pytorch",
-      "icon": "pytorch.png"
-    },
-    {
-      "sn": 3,
-      "name": "Dgl",
-      "icon": "dgl.png"
-    },
+    // {
+    //   "sn": 1,
+    //   "name": "Python",
+    //   "icon": "python.png"
+    // },
+    // {
+    //   "sn": 2,
+    //   "name": "Pytorch",
+    //   "icon": "pytorch.png"
+    // },
+    // {
+    //   "sn": 3,
+    //   "name": "Dgl",
+    //   "icon": "dgl.png"
+    // },
+    // {
+    //   "sn": 4,
+    //   "name": "Django",
+    //   "icon": "django.png"
+    // },
+    // {
+    //   "sn": 5,
+    //   "name": "ROS",
+    //   "icon": "ros.png"
+    // },
+    // {
+    //   "sn": 6,
+    //   "name": "CPP",
+    //   "icon": "cpp.png"
+    // },
     
   ],
   "experince": [
