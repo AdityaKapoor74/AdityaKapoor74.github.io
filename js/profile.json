@@ -124,31 +124,6 @@
       "name": "Python",
       "icon": "python.png"
     }
-    // {
-    //   "sn": 2,
-    //   "name": "Pytorch",
-    //   "icon": "github.svg"
-    // }
-    // {
-    //   "sn": 3,
-    //   "name": "Dgl",
-    //   "icon": "github.svg"
-    // }
-    // {
-    //   "sn": 4,
-    //   "name": "Django",
-    //   "icon": "github.svg"
-    // }
-    // {
-    //   "sn": 5,
-    //   "name": "ROS",
-    //   "icon": "github.svg"
-    // }
-    // {
-    //   "sn": 6,
-    //   "name": "C++",
-    //   "icon": "github.svg"
-    // }
   ],
   "experince": [
     {
