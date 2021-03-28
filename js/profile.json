@@ -152,6 +152,11 @@
       "sn": 7,
       "name": "Git",
       "icon": "git.png"
+    },
+    {
+      "sn": 8,
+      "name": "MySQL",
+      "icon": "sql.png"
     }
   ],
   "experince": [
