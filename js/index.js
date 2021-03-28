@@ -1,18 +1,11 @@
 function loadSkills(skills){
-	var i=0,j;
-	var skillsInnerHTML='';
-	while(i<skills.length){
-
-		var row = '<div class="row">';
-		for(j=i;j<i+6&&j<skills.length;j++){
-			var skill = '<object type="image/svg+xml" data="img/'+skills[j].icon+'">'+skills[i].name+'</object>'
-			row+=skill;
-			
-		}
-		row+='</div>';
-		skillsInnerHTML+=row;
-		
-		i=j;
+	likes = skills.sort(function(a,b){
+		return a.sn-b.sn;
+	});
+	var i;
+	var skillsInnerHTML = '';
+	for(i=0;i<skills.length;i++){
+		skillsInnerHTML+='<object type="image/svg+xml" data="img/'+skills[i].icon+'">'+skills[i].name+'</object>'
 	}
 	$('#skills').html(skillsInnerHTML);
 }

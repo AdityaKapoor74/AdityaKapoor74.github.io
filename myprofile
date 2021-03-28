@@ -422,3 +422,23 @@
       "experience": "Worked on the home automation system. Designed a course on Robotics for people without any engineering background Beginner to Amateur.",
       "type": "intern"
     }
+
+
+function loadSkills(skills){
+  var i=0,j;
+  var skillsInnerHTML='';
+  while(i<skills.length){
+
+    var row = '<div class="row">';
+    for(j=i;j<i+6&&j<skills.length;j++){
+      var skill = '<object type="image/svg+xml" data="img/'+skills[j].icon+'">'+skills[i].name+'</object>'
+      row+=skill;
+      
+    }
+    row+='</div>';
+    skillsInnerHTML+=row;
+    
+    i=j;
+  }
+  $('#skills').html(skillsInnerHTML);
+}
