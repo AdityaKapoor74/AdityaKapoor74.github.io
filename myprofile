@@ -1,0 +1,424 @@
+{
+  "personalInfo": {
+    "myimg": "profilePic.jpg",
+    "fname": "Aditya",
+    "mname": "Manish",
+    "lname": "Kapoor",
+    "nick": "Adi",
+    "address": {
+      "list": [
+        "1602 Daffodil Neelkanth Gardens Govandi East, Opposite Jain Mandir,Mumbai-400088"
+      ]
+    },
+    "email": "adityakapoor074@gmail.com",
+    "mob": "+91 0000 000 000"
+  },
+  "educations": [
+    {
+      "periodStart": "August 2017",
+      "periodEnd": "January 2021",
+      "course": "B.E Computer Science and Information Systems",
+      "score": "8.43 CGPA",
+      "inst": "BITS Pilani, Goa",
+      "board": "BITS",
+      "courses": [
+        {
+          "courseName": "Deep Reinforcement Learning",
+          "sn": 1
+        },
+        {
+          "courseName": "Deep Learning",
+          "sn": 2
+        },
+        {
+          "courseName": "Machine Learning",
+          "sn": 3
+        },
+        {
+          "courseName": "Robotics Specialization",
+          "sn": 4
+        },
+        {
+          "courseName": "Advanced Robotics",
+          "sn": 5
+        },
+        {
+          "courseName": "Cognitive Neuroscience",
+          "sn": 6
+        },
+        {
+          "courseName": "Neuronal Dynamics",
+          "sn": 7
+        },
+        {
+          "courseName": "Behavioral Psychology",
+          "sn": 8
+        },
+        {
+          "courseName": "Data Structures and Algorithms",
+          "sn": 9
+        },
+        {
+          "courseName": "Database and Management Systems",
+          "sn": 10
+        },
+        {
+          "courseName": "Discrete Mathematics",
+          "sn": 11
+        },
+        {
+          "courseName": "Theory of Computation",
+          "sn": 12
+        },
+        {
+          "courseName": "Operating Systems",
+          "sn": 13
+        },
+        {
+          "courseName": "Computer Architecture",
+          "sn": 14
+        },
+        {
+          "courseName": "Linear Algebra",
+          "sn": 15
+        },
+        {
+          "courseName": "Differential Calculus",
+          "sn": 16
+        },
+        {
+          "courseName": "Logic in Computer Science",
+          "sn": 17
+        },
+        {
+          "courseName": "Principles of Programming Language",
+          "sn": 18
+        },
+        {
+          "courseName": "Computer Networks",
+          "sn": 19
+        },
+        {
+          "courseName": "Compiler Construction",
+          "sn": 20
+        },
+        {
+          "courseName": "Information Retrieval",
+          "sn": 21
+        },
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "sn": 5,
+      "name": "C++",
+      "icon": "M117.5 33.5l.3-.2c-.6-1.1-1.5-2.1-2.4-2.6l-48.3-27.8c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.3.9 3.4l-.2.1c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4v-55.8c.1-.8 0-1.7-.4-2.6zm-35.5 32.5v-4h5v-5h5v5h5v4h-5v5h-5v-5h-5zm3.3-14c-4.2-7.5-12.2-12.5-21.3-12.5-13.5 0-24.5 11-24.5 24.5s11 24.5 24.5 24.5c9.1 0 17.1-5 21.3-12.4l12.9 7.6c-6.8 11.8-19.6 19.8-34.2 19.8-21.8 0-39.5-17.7-39.5-39.5s17.7-39.5 39.5-39.5c14.7 0 27.5 8.1 34.3 20l-13 7.5zm29.7 14h-5v5h-4v-5h-6v-4h6v-5h4v5h5v4z"
+    },
+    {
+      "sn": 1,
+      "name": "Python",
+      "icon": "M49.33 62h29.159c8.117 0 14.511-6.868 14.511-15.019v-27.798c0-7.912-6.632-13.856-14.555-15.176-5.014-.835-10.195-1.215-15.187-1.191-4.99.023-9.612.448-13.805 1.191-12.355 2.181-14.453 6.751-14.453 15.176v10.817h29v4h-40.224000000000004c-8.484 0-15.914 5.108-18.237 14.811-2.681 11.12-2.8 17.919 0 29.53 2.075 8.642 7.03 14.659 15.515 14.659h9.946v-13.048c0-9.637 8.428-17.952 18.33-17.952zm-1.838-39.11c-3.026 0-5.478-2.479-5.478-5.545 0-3.079 2.451-5.581 5.478-5.581 3.015 0 5.479 2.502 5.479 5.581-.001 3.066-2.465 5.545-5.479 5.545zM122.281 48.811c-2.098-8.448-6.103-14.811-14.599-14.811h-10.682v12.981c0 10.05-8.794 18.019-18.511 18.019h-29.159c-7.988 0-14.33 7.326-14.33 15.326v27.8c0 7.91 6.745 12.564 14.462 14.834 9.242 2.717 17.994 3.208 29.051 0 7.349-2.129 14.487-6.411 14.487-14.834v-11.126h-29v-4h43.682c8.484 0 11.647-5.776 14.599-14.66 3.047-9.145 2.916-17.799 0-29.529zm-41.955 55.606c3.027 0 5.479 2.479 5.479 5.547 0 3.076-2.451 5.579-5.479 5.579-3.015 0-5.478-2.502-5.478-5.579 0-3.068 2.463-5.547 5.478-5.547z"
+    },
+    {
+      "sn": 2,
+      "name": "Pytorch",
+      "icon": "M2 1v125h125v-125h-125zm66.119 106.513c-1.845 3.749-5.367 6.212-9.448 7.401-6.271 1.44-12.269.619-16.731-2.059-2.986-1.832-5.318-4.652-6.901-7.901l9.52-5.83c.083.035.333.487.667 1.071 1.214 2.034 2.261 3.474 4.319 4.485 2.022.69 6.461 1.131 8.175-2.427 1.047-1.81.714-7.628.714-14.065-.001-10.115.046-20.188.046-30.188h11.709c0 11 .06 21.418 0 32.152.025 6.58.596 12.446-2.07 17.361zm48.574-3.308c-4.07 13.922-26.762 14.374-35.83 5.176-1.916-2.165-3.117-3.296-4.26-5.795 4.819-2.772 4.819-2.772 9.508-5.485 2.547 3.915 4.902 6.068 9.139 6.949 5.748.702 11.531-1.273 10.234-7.378-1.333-4.986-11.77-6.199-18.873-11.531-7.211-4.843-8.901-16.611-2.975-23.335 1.975-2.487 5.343-4.343 8.877-5.235l3.688-.477c7.081-.143 11.507 1.727 14.756 5.355.904.916 1.642 1.904 3.022 4.045-3.772 2.404-3.76 2.381-9.163 5.879-1.154-2.486-3.069-4.046-5.093-4.724-3.142-.952-7.104.083-7.926 3.403-.285 1.023-.226 1.975.227 3.665 1.273 2.903 5.545 4.165 9.377 5.926 11.031 4.474 14.756 9.271 15.672 14.981.882 4.916-.213 8.105-.38 8.581z"
+    },
+    {
+      "sn": 4,
+      "name": "ROS",
+      "icon": "M64 33.039c-33.74 0-61.094 13.862-61.094 30.961s27.354 30.961 61.094 30.961 61.094-13.862 61.094-30.961-27.354-30.961-61.094-30.961zm-15.897 36.993c-1.458 1.364-3.077 1.927-4.86 2.507-1.783.581-4.052.461-6.811.461h-6.253l-1.733 10h-7.301l6.515-34h14.04c4.224 0 7.305 1.215 9.242 3.432 1.937 2.217 2.519 5.364 1.747 9.337-.319 1.637-.856 3.159-1.614 4.515-.759 1.357-1.75 2.624-2.972 3.748zm21.311 2.968l2.881-14.42c.328-1.688.208-2.942-.361-3.555-.57-.614-1.782-1.025-3.635-1.025h-5.79l-3.731 19h-7.244l6.515-33h7.244l-1.732 9h6.453c4.061 0 6.861.815 8.402 2.231s2.003 3.356 1.387 6.528l-3.031 15.241h-7.358zm40.259-11.178c-.318 1.637-.856 3.133-1.613 4.488-.758 1.357-1.748 2.598-2.971 3.722-1.458 1.364-3.078 1.927-4.86 2.507-1.782.581-4.053.461-6.812.461h-6.253l-1.732 10h-7.301l6.514-34h14.041c4.224 0 7.305 1.215 9.241 3.432 1.935 2.217 2.518 5.418 1.746 9.39zM95.919 54h-5.001l-2.727 14h4.442c2.942 0 5.136-.29 6.576-1.4 1.442-1.108 2.413-2.828 2.918-5.421.484-2.491.264-4.434-.66-5.458-.925-1.024-2.774-1.721-5.548-1.721zM38.934 54h-5.002l-2.727 14h4.441c2.943 0 5.136-.29 6.577-1.4 1.441-1.108 2.413-2.828 2.917-5.421.484-2.491.264-4.434-.66-5.458s-2.772-1.721-5.546-1.721z"
+    },
+    {
+      "sn": 6,
+      "name": "MySQL",
+      "icon": "M125.477 122.783l-2.616-2.537c-2.479-3.292-5.668-6.184-9.015-8.585-2.669-1.916-8.661-4.504-9.775-7.609l-.205-.195c1.893-.214 4.103-.898 5.85-1.367 2.934-.786 5.356-.583 8.386-1.365 1.366-.39 2.899-.781 3.899-1.171v-.78c-1-1.571-2.427-3.651-4.097-5.073-4.369-3.72-9.041-7.437-13.951-10.537-2.723-1.718-6.041-2.835-8.926-4.292-.971-.491-2.652-.746-3.294-1.562-1.517-1.932-2.328-4.382-3.498-6.633-2.449-4.717-4.849-9.868-7.019-14.831-1.48-3.384-2.443-6.72-4.289-9.756-8.86-14.567-18.395-23.358-33.167-32-3.145-1.838-6.929-2.563-10.929-3.513-2.144-.129-4.291-.26-6.437-.391-1.311-.546-2.674-2.149-3.902-2.927-4.896-3.092-17.449-9.817-21.074-.975-2.289 5.581 3.42 11.025 5.462 13.854 1.435 1.982 3.27 4.207 4.293 6.438.675 1.467.79 2.938 1.367 4.489 1.418 3.822 2.651 7.98 4.487 11.511.927 1.788 1.949 3.67 3.122 5.268.718.981 1.95 1.413 2.145 2.927-1.204 1.686-1.273 4.304-1.95 6.44-3.05 9.615-1.898 21.567 2.537 28.683 1.36 2.186 4.566 6.871 8.975 5.073 3.856-1.57 3.226-6.438 4.329-10.732.249-.972-.185-1.688.815-2.341v.195c1 2.341 2.11 4.683 3.282 7.024 2.6 4.187 6.889 8.562 10.798 11.514 2.027 1.531 3.92 4.177 5.92 5.073v-.101h.221c-.507-1-1.302-1.167-1.95-1.804-1.527-1.496-3.226-3.382-4.487-5.097-3.556-4.827-6.698-10.122-9.561-15.622-1.368-2.626-2.557-5.529-3.709-8.201-.443-1.03-.438-2.592-1.364-3.125-1.263 1.958-3.122 3.54-4.099 5.853-1.561 3.696-1.762 8.204-2.341 12.877-.343.122-.19.038-.391.194-2.718-.655-3.672-3.452-4.683-5.853-2.555-6.07-3.029-15.843-.781-22.829.582-1.809 3.211-7.501 2.146-9.172-.508-1.665-2.184-2.63-3.121-3.903-1.161-1.574-2.319-3.646-3.123-5.464-2.091-4.731-3.066-10.044-5.268-14.828-1.053-2.287-2.832-4.602-4.293-6.634-1.617-2.253-3.429-3.912-4.684-6.635-.445-.968-1.051-2.518-.39-3.513.21-.671.507-.951 1.171-1.17 1.133-.873 4.283.29 5.463.779 3.129 1.3 5.741 2.5 8.392 4.256 1.271.844 2.559 1.89 4.097 2.89h1.756c2.747 0 5.824.232 8.391 1.012 4.535 1.379 8.6 3.542 12.292 5.873 11.246 7.102 20.441 17.22 26.732 29.278 1.012 1.942 1.45 3.799 2.341 5.858 1.798 4.153 4.064 8.428 5.853 12.489 1.786 4.053 3.526 8.142 6.05 11.514 1.327 1.772 6.451 2.724 8.78 3.709 1.633.689 4.308 1.409 5.854 2.34 2.953 1.782 5.814 3.904 8.586 5.855 1.384.974 5.64 3.114 5.853 4.878-6.863-.188-12.104.452-16.585 2.341-1.273.537-3.305.552-3.513 2.147.7.733.809 1.829 1.365 2.731 1.069 1.73 2.876 4.052 4.488 5.268 1.762 1.33 3.576 2.751 5.464 3.902 3.359 2.047 7.107 3.217 10.341 5.268 1.906 1.21 3.958 2.733 5.815 4.097.92.675.891 1.724 2.891 2.147v-.194c-.999-.795-.946-1.893-1.522-2.728zM29.514 23.465c-1.431-.027-2.514.157-3.514.389v.146h.198c.683 1 1.888 2.33 2.731 3.538l1.952 4.108.193-.187c1.209-.853 1.763-2.211 1.756-4.291-.483-.509-.556-1.146-.974-1.754-.558-.809-1.639-1.268-2.342-1.949z"
+    },
+    {
+      "sn": 3,
+      "name": "DGL",
+      "icon": "M90.491 57.282c-.37-4.79-1.496-9.409-3.062-13.934-3.244-10.104-8.45-19.046-15.783-26.74-1.854-1.946-3.916-3.729-5.209-6.151-.818-1.532-1.597-3.085-2.394-4.629l-.505-1.273c-.085.292-.139.396-.142.501-.065 2.517-1.491 4.224-3.267 5.817-1.997 1.793-3.856 3.739-5.775 5.618-1.968 2.588-3.935 5.176-5.901 7.763-1.592 2.925-3.182 5.85-4.772 8.775l-3.19 8.617-.096.134c-1.756 5.768-2.622 11.698-3.048 17.688-.16 2.251.022 4.535.149 6.798.181 3.235.743 6.415 1.586 9.545 3.062 11.372 9.276 20.805 17.771 28.819 1.579 1.489 3.199 2.843 4.847 4.26.282-.965.507-1.93.763-2.895.256-.961.515-1.917.688-2.881-.174.964-.369 1.92-.562 2.881l-.826 2.895.738 2.501.684 3.884.326 4.053c-.003.823-.036 1.648.014 2.47.012.21.288.404.442.606l1.376.483 1.434.558-.246-3.603-.011-3.548.495-5.405.359-1.177 1.027-1.82c1.268-1.02 2.629-1.946 3.784-3.081 2.09-2.054 4.175-4.134 6.045-6.383 2.427-2.917 4.515-6.101 6.191-9.516 1.122-2.284 2.178-4.614 3.052-7.001.77-2.104 1.247-4.315 1.854-6.479.054-.156.126-.309.16-.468 1.254-5.841 1.465-11.741 1.004-17.682zm-23.599 49.375l-.805-1.763.805 1.763 1.183 1.01-1.183-1.01"
+    },
+    {
+      "sn": 7,
+      "name": "Django",
+      "icon": "M90.9 61.6l.1-2v-.6h-.8c-1.2 0-2.5.3-3.4.9-1.4.8-2.2 2.3-2.2 4.4 0 3 1.5 4.7 4.1 4.7.8 0 1.3-.1 2.3-.4v-4.3l-.1-2.7zM16.3 64.2c0 3.2 1.6 4.9 4.7 4.9.7 0 1 0 2-.2v-9.5c-1-.2-1.2-.3-2-.3-3 0-4.7 1.9-4.7 5.1zM45.9 68.1c0 1.2.7 1.7 2.3 1.7.9 0 1.8-.1 2.8-.3v-4c-4 .4-5.1 1-5.1 2.6zM108.9 59c-2.3 0-3.7 1.9-3.7 5.2 0 3.3 1.3 5.2 3.7 5.2 2.3 0 3.6-1.9 3.6-5.2 0-3.2-1.3-5.2-3.6-5.2zM126 43.9c0-3.8-3.1-6.9-6.9-6.9h-111.2c-3.8 0-6.9 3.1-6.9 6.9v40.1c0 3.9 3.1 7 6.9 7h111.1c3.8 0 6.9-3.1 6.9-6.9v-40.2zm-115.7 20.4c0-6 4-10 10.2-10 1 0 1.6.1 2.6.3v-8.6h6v27c-3 .6-5.3.8-7.7.8-7.3 0-11.1-3.2-11.1-9.5zm27.7 4.2c0 4.7-.2 7-1.2 9-1 1.9-2.1 3.1-4.7 4.4l-5.5-2.6c2.6-1.2 3.7-2.3 4.5-4 .8-1.7.9-3.7.9-8.8v-11.5h6v13.5zm0-16.5h-6v-6h6v6zm18 21.3c-2 .4-5.8.7-8.3.7-5 0-7.1-1.7-7.1-5.6 0-4.2 3.3-6.1 10.3-6.7v-1.3c0-1.1-.5-1.5-2-1.5-2.2 0-5 .6-7 1.8v-4.6c3-1.2 5.1-1.8 7.8-1.8 3 0 4.8.8 5.7 2.4.5.9.5 2 .5 4.5v12.1zm21 .7h-6v-11.8c0-2.3-1-3.1-3.1-3.1-.8 0-1.9.1-2.9.4v14.5h-6v-18.3c4-.9 6.5-1.3 9.4-1.3 3 0 5.4.7 6.7 2 1.3 1.3 1.9 2.6 1.9 5.6v12zm19.3-11.6.7 5.6v1.7c0 5.1-.6 7.5-1.9 9.4-1.8 2.9-5.1 4.3-9.7 4.3-2.3 0-4.5-.3-6.5-1.2v-5.5c2 1.1 4.2 1.6 6.4 1.6 3.9 0 5.6-1.6 5.6-5.3v-.1c-1 .6-2.4.8-3.9.8-5.2 0-8.5-3.4-8.5-8.8 0-6.7 4.9-10.5 13.5-10.5 2.5 0 4.9.3 7.7.8l-2.3 4.3c-1.6-.3 1.3 0-.7-.2m12.1 14.8c-5.9 0-9.6-3.7-9.6-9.7 0-6.2 3.8-10.1 9.8-10.1 5.9 0 9.5 3.7 9.5 9.8.1 6.1-3.7 10-9.7 10z"
+    },
+  ],
+  "experince": [
+    {
+      "sn": 1,
+      "link": "http://biorobotics.ri.cmu.edu/",
+      "workPosition": "Research Intern",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "organisation": "Biorobotics Lab, CMU",
+      "experience": "I am working on the credit assignment problem in reinforcement learning in multiagent systems. The aim is to determine which actions taken by agents in a large group of cooperating agents helped the group achieve its goal and hence learn more rapidly. The inspiration came from real life, wherein people tend to choose companions who motivate them to reach their goals and do not assign as much importance to those who don’t. Along with this, I am working on a probabilistic terrain-based path planner in the Biorobotics lab. The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
+      "type": "research"
+    },
+    {
+      "sn": 2,
+      "link": "http://www.gnns4hri.org/",
+      "workPosition": "Research Intern",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "organisation": "Robocomp, UK",
+      "experience": "I worked on a tool to generate datasets on different social scenarios with human-human and human-object interactions. This data can be used to train robots to conduct socially-aware navigation. We successfully published this work at the Workshop of Physical Agents (WAF2020). Currently, we are using this tool to gather data to train a graph-based deep reinforcement learning algorithm to navigate a robot in a socially-dense environment without disturbing any human-object or human-human interaction.",
+      "type": "research"
+    },
+    {
+      "sn": 3,
+      "link": "https://www.makersasylum.com/",
+      "workPosition": "Software Engineer Intern",
+      "periodStart": "May 2019",
+      "periodEnd": "July 2019",
+      "organisation": "Maker's Asylum",
+      "experience": "Worked on the home automation system. Designed a course on Robotics for people without any engineering background Beginner to Amateur",
+      "type": "internship"
+    },
+    {
+      "sn": 4,
+      "link": "https://smartifyworld.com/",
+      "workPosition": "Webapp Developer Intern",
+      "periodStart": "May 2018",
+      "periodEnd": "July 2018",
+      "organisation": "Smartify World Pvt Limited",
+      "experience": "Used the Django framework for backend as well as the front end of the WebApp to deploy a dashboard for the Parking System which is currently functional in Dubai",
+      "type": "internship"
+    },
+    
+  ],
+  "projects": [
+    {
+      "sn": 1,
+      "projectTitle": "Partial Reward Decoupling",
+      "periodStart": "June 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Pytorch",
+        "DGL",
+      ],
+      "tags": [
+        "python",
+        "openai-multiagent-particle environment",
+        "actor critic networks",
+        "graph neural networks"
+      ],
+      "shortInfo": "I am working on the credit assignment problem in reinforcement learning in multiagent systems. The aim is to determine which actions taken by agents in a large group of cooperating agents helped the group achieve its goal and hence learn more rapidly.",
+      "link": "https://github.com/AdityaKapoor74/PRD"
+    },
+    {
+      "sn": 2,
+      "projectTitle": "Terrain Based Probabilistic Path Planner",
+      "periodStart": "November 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Pytorch",
+        "Pybullet",
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "cnns"
+      ],
+      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal. This project has the potential to overcome the limitations of current path planners without necessitating hand-engineered heuristics for each robot and control policy.",
+      "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
+    },
+    {
+      "sn": 4,
+      "projectTitle": "SONATA: A tool to generate social navigation dataset",
+      "periodStart": "May 2020",
+      "periodEnd": "October 2020",
+      "toolsUsed": [
+        "Pytorch",
+        "DGL",
+        "Coppeliasim",
+        "Pytorch-geometric"
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "gnns"
+      ],
+      "shortInfo": "A toolkit to generate HRI dataset.",
+      "link": "http://www.gnns4hri.org/pages/sonata.html"
+    },
+    {
+      "sn": 5,
+      "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
+      "periodStart": "May 2020",
+      "periodEnd": "October 2020",
+      "toolsUsed": [
+        "Pytorch",
+        "DGL",
+        "Coppeliasim",
+        "Pytorch-geometric"
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "gnns"
+      ],
+      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
+      "link": "https://github.com/gnns4hri/SNGNN-RL"
+    },
+    {
+      "sn": 6,
+      "projectTitle": "Speech Classification using Spiking Neural Networks",
+      "periodStart": "May 2019",
+      "periodEnd": "June 2020",
+      "toolsUsed": [
+        "PYNN",
+        "SPiNNaker",
+        "Jupyter",
+      ],
+      "tags": [
+        "python",
+        "simulation",
+        "snns"
+      ],
+      "shortInfo": "Develop an inexpensie devise to classify speech without internet connectivity.",
+      "link": ""
+    },
+    {
+      "sn": 7,
+      "projectTitle": "Visual Categorization Study",
+      "periodStart": "May 2019",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Django",
+      ],
+      "tags": [
+        "python",
+        "webapp",
+        "modeling"
+      ],
+      "shortInfo": "A study of categorization strategy used by adult humans.",
+      "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
+    },
+  ],
+  "summary": "<p>Hello, I'm a Computer science enthusiast and B.Tech Information Technology graduate having 2 years of experience as Software Development Engineer in Internet/Ad-Tech industry. As of now I'm involved in developing distributed system software for Storage Management.</p>\n\n<p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
+  "profileLinks": [
+    {
+      "name": "Github",
+      "icon": "github.svg",
+      "link": "https://github.com/AdityaKapoor74",
+      "sn": 2
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/aditya-kapoor-446727152/",
+      "sn": 1
+    },
+    {
+      "name": "Google Scholar",
+      "icon": "googlescholar.svg",
+      "link": "https://scholar.google.com/citations?user=UPH3tawAAAAJ&hl=en",
+      "sn": 3
+    }
+  ],
+  "likes": [
+    {
+      "name": "Programming",
+      "icon": "programming.svg",
+      "sn": 1
+    },
+    {
+      "name": "Maths",
+      "icon": "maths.svg",
+      "sn": 2
+    },
+    {
+      "name": "Armed Forces",
+      "icon": "soldier.svg",
+      "sn": 3
+    },
+    {
+      "name": "Reading",
+      "icon": "book.svg",
+      "sn": 4
+    },
+    {
+      "name": "Singing",
+      "icon": "singer.svg",
+      "sn": 5
+    },
+    {
+      "name": "Watermelon",
+      "icon": "watermelon.svg",
+      "sn": 6
+    },
+    {
+      "name": "Chicken",
+      "icon": "chicken.svg",
+      "sn": 7
+    },
+    {
+      "name": "Cycling",
+      "icon": "cycling.svg",
+      "sn": 8
+    },
+    {
+      "name": "Trekking",
+      "icon": "trek.svg",
+      "sn": 9
+    },
+    {
+      "name": "Camping",
+      "icon": "tent.svg",
+      "sn": 10
+    }
+  ],
+  "qoutes": [
+    "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this when subjected to an apprpriate course of education one would obtain the adult brain.",
+    "What we want is a machine that can learn from experience."
+  ],
+  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm a research intern at <a href='http://biorobotics.ri.cmu.edu/'>Biorobotics Lab, CMU</a> and a research collaborator <a href='http://www.gnns4hri.org/'>Robocomp, UK</a></p>\n<p>I completed  B.E in Computer Science and Information Systems at <a href='https://www.bits-pilani.ac.in/goa/'>BITS Pilani, Goa</a> \n\n<p>I'm interested in the applications of Machine Learning in Robotics.</p>\n\n<p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+}
+
+
+
+
+
+{
+      "sn": 1,
+      "link": "http://biorobotics.ri.cmu.edu/",
+      "workPosition": "Research Intern",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "organisation": "Biorobotics Lab, Carnegie Mellon University",
+      "experience": "Working on Multiagent systems and path planning.",
+      "type": "collaboration"
+    },
+    {
+      "sn": 2,
+      "link": "http://www.gnns4hri.org/",
+      "workPosition": "Research Intern",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "organisation": "Robocomp, UK",
+      "experience": "Working on Human Robot Interaction.",
+      "type": "collaboration"
+    },
+    {
+      "sn": 4,
+      "link": "https://smartifyworld.com/",
+      "workPosition": "Webapp Developer Intern",
+      "periodStart": "May 2018",
+      "periodEnd": "July 2018",
+      "organisation": "Smartify World Pvt Limited",
+      "experience": "Used the Django framework to deploy a dashboard for the Parking System which is currently functional in Dubai",
+      "type": "intern"
+    },
+    {
+      "sn": 3,
+      "link": "https://www.makersasylum.com/",
+      "workPosition": "Software Engineer Intern",
+      "periodStart": "May 2019",
+      "periodEnd": "May 2019",
+      "organisation": "Maker's Asylum",
+      "experience": "Worked on the home automation system. Designed a course on Robotics for people without any engineering background Beginner to Amateur.",
+      "type": "intern"
+    }

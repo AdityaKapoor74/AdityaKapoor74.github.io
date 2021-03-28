@@ -121,44 +121,14 @@
   ],
   "experince": [
     {
-      "sn": 1,
-      "link": "http://biorobotics.ri.cmu.edu/",
-      "workPosition": "Research Intern",
-      "periodStart": "May 2020",
-      "periodEnd": "Present",
-      "organisation": "Biorobotics Lab, Carnegie Mellon University",
-      "experience": "Working on Multiagent systems and path planning.",
-      "type": "collaboration"
-    },
-    {
-      "sn": 2,
-      "link": "http://www.gnns4hri.org/",
-      "workPosition": "Research Intern",
-      "periodStart": "May 2020",
-      "periodEnd": "Present",
-      "organisation": "Robocomp, UK",
-      "experience": "Working on Human Robot Interaction.",
-      "type": "collaboration"
-    },
-    {
-      "sn": 4,
-      "link": "https://smartifyworld.com/",
-      "workPosition": "Webapp Developer Intern",
-      "periodStart": "May 2018",
-      "periodEnd": "July 2018",
-      "organisation": "Smartify World Pvt Limited",
-      "experience": "Used the Django framework to deploy a dashboard for the Parking System which is currently functional in Dubai",
-      "type": "intern"
-    },
-    {
-      "sn": 3,
-      "link": "https://www.makersasylum.com/",
-      "workPosition": "Software Engineer Intern",
-      "periodStart": "May 2019",
-      "periodEnd": "May 2019",
-      "organisation": "Maker's Asylum",
-      "experience": "Worked on the home automation system. Designed a course on Robotics for people without any engineering background Beginner to Amateur.",
-      "type": "intern"
+      "sn": 6,
+      "link": "",
+      "workPosition": "Scout Troop Leader",
+      "periodStart": "April 2010",
+      "periodEnd": "May 2012",
+      "organisation": "JNV,Washim",
+      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
+      "type": "volunteer"
     }
   ],
   "projects": [
