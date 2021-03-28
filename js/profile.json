@@ -192,12 +192,12 @@
     },
     {
       "sn": -1,
-      "link": "https://www.cohesity.com",
-      "workPosition": "Member of Technical Staff",
-      "periodStart": "Feb 2020",
+      "link": "http://biorobotics.ri.cmu.edu/",
+      "workPosition": "Research Intern",
+      "periodStart": "May 2020",
       "periodEnd": "Present",
-      "organisation": "Cohesity",
-      "experience": "<ul><li>\nDevelopingdistributedsystemsoftwareusingC++,Golangfordataprotection.</li></ul>",
+      "organisation": "Biorobotics Lab, Carnegie Mellon University",
+      "experience": "<ul><li>Working on Multiagent systems and path planning.</li></ul>",
       "type": "work"
     }
   ],
