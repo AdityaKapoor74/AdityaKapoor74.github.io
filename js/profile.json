@@ -134,21 +134,6 @@
       "name": "Dgl",
       "icon": "dgl.png"
     },
-    {
-      "sn": 4,
-      "name": "Django",
-      "icon": "django.png"
-    },
-    {
-      "sn": 5,
-      "name": "ROS",
-      "icon": "ros.png"
-    },
-    {
-      "sn": 6,
-      "name": "CPP",
-      "icon": "cpp.png"
-    },
     
   ],
   "experince": [
