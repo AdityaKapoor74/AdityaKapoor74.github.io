@@ -198,7 +198,7 @@ function loadAdiSays() {
 		<div class="row">
 			In my research, I focus on the intersection between control and machine learning, with the aim of developing algorithms and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex tasks. In particular, I am interested in how learning can be used to acquire complex behavioral skills, in order to endow machines with greater autonomy and intelligence.
 		</div>
-	</div>;
+	</div>;`
 	$('#moghyaSays').html(moghyaSaysInnerHtml);
 }
 
