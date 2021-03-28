@@ -308,33 +308,33 @@
       "sn": 4
     },
     {
-      "name": "Singing",
-      "icon": "singer.svg",
+      "name": "Guitar",
+      "icon": "guitar.png",
       "sn": 5
     },
     {
-      "name": "Watermelon",
-      "icon": "watermelon.svg",
+      "name": "Fitness",
+      "icon": "fitness.png",
       "sn": 6
     },
     {
-      "name": "Chicken",
-      "icon": "chicken.svg",
+      "name": "Chess",
+      "icon": "chess-board.png",
       "sn": 7
     },
     {
-      "name": "Cycling",
-      "icon": "cycling.svg",
+      "name": "Football",
+      "icon": "football-player.png",
       "sn": 8
     },
     {
-      "name": "Trekking",
-      "icon": "trek.svg",
+      "name": "Badminton",
+      "icon": "Badminton.png",
       "sn": 9
     },
     {
-      "name": "Camping",
-      "icon": "tent.svg",
+      "name": "Table Tennis",
+      "icon": "table-tennis.png",
       "sn": 10
     }
   ],
