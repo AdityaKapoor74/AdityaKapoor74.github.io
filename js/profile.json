@@ -281,7 +281,7 @@
     },
     {
       "name": "GoogleScholar",
-      "icon": "linkedin.svg",
+      "icon": "gscholar.png",
       "link": "https://scholar.google.com/citations?user=UPH3tawAAAAJ&hl=en",
       "sn": 3
     }
