@@ -122,46 +122,54 @@
       "sn": 1,
       "name": "Python",
       "icon": "python.png"
+      "experience": 4 years
     },
     {
       "sn": 2,
       "name": "Pytorch",
       "icon": "pytorch.png"
+      "experience": 3 years
     },
     {
       "sn": 3,
       "name": "DGL",
       "icon": "dgl.png"
+      "experience": 1 year
     },
     {
       "sn": 4,
       "name": "Django",
       "icon": "django.png"
+      "experience": 3 years
     },
     {
       "sn": 5,
       "name": "ROS",
       "icon": "ros.png"
+      "experience": 1 year
     },
     {
       "sn": 6,
       "name": "CPP",
       "icon": "cpp.png"
+      "experience": 1 year
     },
     {
       "sn": 7,
       "name": "Git",
       "icon": "git.png"
+      "experience": 4 years
     },
     {
       "sn": 8,
       "name": "MySQL",
       "icon": "sql.png"
+      "experience": 3 years
     }
   ],
   "experince": [
     {
-      "sn": 1,
+      "sn": 7,
       "link": "https://www.makersasylum.com/",
       "workPosition": "Software Engineer Intern",
       "periodStart": "May 2019",
@@ -171,7 +179,7 @@
       "type": "work"
     },
     {
-      "sn": 2,
+      "sn": 6,
       "link": "https://smartifyworld.com/",
       "workPosition": "Web Development Intern",
       "periodStart": "May 2018",
@@ -181,7 +189,7 @@
       "type": "work"
     },
     {
-      "sn": 0,
+      "sn": 5,
       "link": "http://www.gnns4hri.org/",
       "workPosition": "Research Intern",
       "periodStart": "April 2020",
@@ -191,13 +199,58 @@
       "type": "work"
     },
     {
-      "sn": -1,
+      "sn": 4,
       "link": "http://biorobotics.ri.cmu.edu/",
-      "workPosition": "Research Intern",
+      "workPosition": "Undergraduate Researcher",
       "periodStart": "May 2020",
-      "periodEnd": "Present",
+      "periodEnd": "June 2021",
       "organisation": "Biorobotics Lab, Carnegie Mellon University",
       "experience": "<ul><li>Working on Multiagent systems and path planning.</li></ul>",
+      "type": "work"
+    }
+    {
+      "sn": 3,
+      "link": "http://biorobotics.ri.cmu.edu/",
+      "workPosition": "Research Assistant",
+      "periodStart": "July 2021",
+      "periodEnd": "Present",
+      "organisation": "Biorobotics Lab, Carnegie Mellon University",
+      "experience": "<ul><li>Multiagent Reinforcement Learning.</li></ul>",
+      "type": "work"
+    }
+    {
+      "sn": 2,
+      "link": "https://summerofcode.withgoogle.com/archive/2021/projects/5472062881136640",
+      "workPosition": "Independent Developer",
+      "periodStart": "May 2021",
+      "periodEnd": "September 2021",
+      "organisation": "Robocomp, Google Summer of Code (GSoC'21)",
+      "experience": "<ul><li>Improvement of a Social Navigation component.</li></ul>",
+      "type": "internship"
+    }
+    {
+      "sn": 1,
+      "link": "https://summerofcode.withgoogle.com/programs/2022/projects/So3JrqTr",
+      "workPosition": "Mentor",
+      "periodStart": "May 2022",
+      "periodEnd": "September 2022",
+      "organisation": "Robocomp, Google Summer of Code (GSoC'22)",
+      "experience": "<ul><li>Extending the Social Navigation component to realistic scenarios.</li></ul>",
+      "type": "mentorship"
+    }
+    {
+      "sn": 0,
+      "link": "https://www.tcs.com/insights/topics/ai-ml-topic",
+      "workPosition": "Predoctoral Research Fellowship",
+      "periodStart": "October 2021",
+      "periodEnd": "Present",
+      "organisation": "Tata Consultancy Services, Research & Innovation Labs",
+      "experience": "
+      <ul>
+      <li>Perception Aware integrated Task and Motion Planning in Retail Environment.</li>
+      <li>Autmatic Composition of Vision pipelines for Robot Perception.</li>
+      <li>Multi-robot Task allocation in industrial warehouse setting.</li>
+      </ul>",
       "type": "work"
     }
   ],
