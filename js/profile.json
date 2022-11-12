@@ -122,49 +122,41 @@
       "sn": 1,
       "name": "Python",
       "icon": "python.png"
-      "experience": 4 years
     },
     {
       "sn": 2,
       "name": "Pytorch",
       "icon": "pytorch.png"
-      "experience": 3 years
     },
     {
       "sn": 3,
       "name": "DGL",
       "icon": "dgl.png"
-      "experience": 1 year
     },
     {
       "sn": 4,
       "name": "Django",
       "icon": "django.png"
-      "experience": 3 years
     },
     {
       "sn": 5,
       "name": "ROS",
       "icon": "ros.png"
-      "experience": 1 year
     },
     {
       "sn": 6,
       "name": "CPP",
       "icon": "cpp.png"
-      "experience": 1 year
     },
     {
       "sn": 7,
       "name": "Git",
       "icon": "git.png"
-      "experience": 4 years
     },
     {
       "sn": 8,
       "name": "MySQL",
       "icon": "sql.png"
-      "experience": 3 years
     }
   ],
   "experince": [
