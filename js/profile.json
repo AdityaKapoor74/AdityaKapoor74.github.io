@@ -237,18 +237,123 @@
       "periodStart": "October 2021",
       "periodEnd": "Present",
       "organisation": "Tata Consultancy Services, Research & Innovation Labs",
-      "experience": "
-      <ul>
-      <li>Perception Aware integrated Task and Motion Planning in Retail Environment.</li>
-      <li>Autmatic Composition of Vision pipelines for Robot Perception.</li>
-      <li>Multi-robot Task allocation in industrial warehouse setting.</li>
-      </ul>",
+      "experience": "<ul> <li>Perception Aware integrated Task and Motion Planning in Retail Environment.</li> <li>Autmatic Composition of Vision pipelines for Robot Perception.</li> <li>Multi-robot Task allocation in industrial warehouse setting.</li> </ul>",
       "type": "work"
     }
   ],
   "projects": [
     {
+      "sn": 0,
+      "projectTitle": "Retail Anomaly Detection and Correction",
+      "periodStart": "October 2022",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Python",
+        "Pytorch",
+        "Open-AI gym",
+      ],
+      "tags": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Python",
+        "Symbolic AI",
+      ],
+      "shortInfo": "Perception-aware integrated Task and Motion Planning to detect and correct anomalies in retail stores",
+      "link": "https://arxiv.org/pdf/2208.09020.pdf"
+    },
+    {
+      "sn": 1,
+      "projectTitle": "XVision Composable Worlkflows",
+      "periodStart": "October 2021",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Python",
+        "Pytorch",
+      ],
+      "tags": [
+        "Machine Learning",
+        "Supervised Learning",
+        "Python",
+        "PDDL",
+      ],
+      "shortInfo": "Dynamic Composition of Vision Workflows for Robot Perception in different environments without manual intervention.",
+      "link": "https://arxiv.org/pdf/2209.02991.pdf"
+    },
+    {
+      "sn": 2,
+      "projectTitle": "Multi-robot task allocation",
+      "periodStart": "October 2021",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Python",
+        "Pytorch",
+        "Open-AI Gym",
+      ],
+      "tags": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Python"
+      ],
+      "shortInfo": "Allocationg and scheduling multiple robots with tasks in industrial warehouse for jobs such as bin picking and sorting.",
+      "link": ""
+    },
+    {
       "sn": 3,
+      "projectTitle": "Partial Reward Decoupling",
+      "periodStart": "June 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Python",
+        "Pytorch",
+        "Open-AI Gym",
+      ],
+      "tags": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Python"
+      ],
+      "shortInfo": "Tackling the credit assignment problem in multiagent reinforcement learning. The aim is to determine which actions taken by agents in a large group of cooperating agents helped the group achieve its goal and hence learn more rapidly.",
+      "link": "https://github.com/biorobotics/PRD"
+    },
+    {
+      "sn": 4,
+      "projectTitle": "Multiagent Skill Abstraction",
+      "periodStart": "November 2022",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "Python",
+        "Pytorch",
+        "Open-AI Gym",
+      ],
+      "tags": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Python"
+      ],
+      "shortInfo": "Learn world-models that enable temporal abstraction, that is, the ability to predict and/or plan at a coarse-grained temporal resolution in Multi-Agent systems.",
+      "link": ""
+    },
+    {
+      "sn": 5,
+      "projectTitle": "Terrain Based Probabilistic Path Planner",
+      "periodStart": "November 2020",
+      "periodEnd": "June 2021",
+      "toolsUsed": [
+        "Pytorch",
+        "Pybullet",
+        "Scikit"
+      ],
+      "tags": [
+        "Python",
+        "Data Analytics",
+        "Supervised Learning",
+        "Autonomous Navigation"
+      ],
+      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal.",
+      "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
+    },
+    {
+      "sn": 6,
       "projectTitle": "SONATA: A tool to generate social navigation dataset",
       "periodStart": "May 2020",
       "periodEnd": "October 2020",
@@ -259,71 +364,74 @@
         "Pytorch-geometric"
       ],
       "tags": [
-        "python",
-        "simulation",
-        "gnns"
+        "Python",
+        "Simulation",
+        "GNNS/ Transformers"
       ],
-      "shortInfo": "A toolkit to generate HRI dataset.",
-      "link": "http://www.gnns4hri.org/pages/sonata.html"
-    },
-    {
-      "sn": 1,
-      "projectTitle": "Partial Reward Decoupling",
-      "periodStart": "June 2020",
-      "periodEnd": "Present",
-      "toolsUsed": [
-        "python",
-        "pytorch",
-        "dgl",
-        "graph-api"
-      ],
-      "tags": [
-        "machine-learning",
-        "reinforcement learning",
-        "python"
-      ],
-      "shortInfo": "I am working on the credit assignment problem in reinforcement learning in multiagent systems. The aim is to determine which actions taken by agents in a large group of cooperating agents helped the group achieve its goal and hence learn more rapidly.",
-      "link": "https://github.com/AdityaKapoor74/PRD"
-    },
-    {
-      "sn": 2,
-      "projectTitle": "Terrain Based Probabilistic Path Planner",
-      "periodStart": "November 2020",
-      "periodEnd": "Present",
-      "toolsUsed": [
-        "pytorch",
-        "pybullet",
-        "scikit"
-      ],
-      "tags": [
-        "python",
-        "data analytics",
-        "supervised learning",
-        "autonomous navigation"
-      ],
-      "shortInfo": "The proposed planner could be applied to any type of robot and control policy and will consider the most effective path by factoring in the terrain type, power consumption, and time required to reach the goal.",
-      "link": "https://github.com/biorobotics/TerrainBasedPathPlanning"
+      "shortInfo": "A toolkit to generate Human-robot interaction dataset to train Machine Learning models.",
+      "link": "https://github.com/gnns4hri/sonata"
     },
     {
       "sn": 7,
-      "projectTitle": "Project Kratos: MARS ROVER",
-      "periodStart": "July 2018",
-      "periodEnd": "June 2020",
+      "projectTitle": "Extending the Social Navigation component to realistic scenarios.",
+      "periodStart": "June 2022",
+      "periodEnd": "Present",
       "toolsUsed": [
-        "python",
-        "ROS",
-        "pyQt"
+        "pytorch",
+        "open-ai gym",
+        "stable-baselines",
+      ],
+      "toolsUsed": [
+        "Python",
+        "Pytorch",
+        "Open-AI Gym",
       ],
       "tags": [
-        "robotics",
-        "python",
-        "autonomous navigation"
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Python"
       ],
-      "shortInfo": "Autonomous Navigation of a Mars Rover in a partially known terrain  with a custom variant of RRT.",
-      "link": "https://kratosbitsgoa.com/"
+      "shortInfo": "Building realistic social environments to train an agent to learn to be socially compliant.",
+      "link": "https://github.com/robocomp/gsoc22-socnavenv"
     },
     {
-      "sn": 5,
+      "sn": 8,
+      "projectTitle": "Hierarchical Social Navigation Agent",
+      "periodStart": "October 2022",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "pytorch",
+        "open-ai gym",
+      ],
+      "tags": [
+        "python",
+        "gnns",
+        "Human Robot Interaction",
+        "Reinforcement Learning"
+      ],
+      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
+      "link": ""
+    },
+    {
+      "sn": 9,
+      "projectTitle": "Social Navigation with Graph Neural Networks (SGNN-v3)",
+      "periodStart": "October 2022",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "pytorch",
+        "open-ai gym",
+      ],
+      "tags": [
+        "python",
+        "gnns",
+        "Human Robot Interaction",
+        "Reinforcement Learning"
+      ],
+      "shortInfo": "Learning to score social scenarios based on human opinion.",
+      "link": ""
+    },
+    {
+      "sn": 10,
       "projectTitle": "Speech Classification using Spiking Neural Networks",
       "periodStart": "May 2019",
       "periodEnd": "June 2020",
@@ -341,27 +449,7 @@
       "link": "https://docs.google.com/presentation/d/1Zmg4gBQcuojgY2Qy23HcO9APuT8yd88PP-JqojvJyus/edit?usp=sharing"
     },
     {
-      "sn": 4,
-      "projectTitle": "SNGNN-RL: Graph based Reinforcement Learning approach for navigating a robot in a social setting.",
-      "periodStart": "January 2021",
-      "periodEnd": "Present",
-      "toolsUsed": [
-        "pytorch",
-        "dgl",
-        "webots",
-        "pytorch_geometric"
-      ],
-      "tags": [
-        "python",
-        "gnns",
-        "Human Robot Interaction",
-        "Reinforcement Learning"
-      ],
-      "shortInfo": "Navigate a robot in social environment without disturbing social interactions.",
-      "link": "https://github.com/gnns4hri/SNGNN-RL"
-    },
-    {
-      "sn": 6,
+      "sn": 11,
       "projectTitle": "Visual Categorization Study",
       "periodStart": "May 2019",
       "periodEnd": "March 2021",
@@ -379,6 +467,24 @@
       "shortInfo": "A study of categorization strategy used by adult humans.",
       "link": "https://github.com/AdityaKapoor74/Supervised_Categorization_Study_Pt3"
     }
+    {
+      "sn": 12,
+      "projectTitle": "Project Kratos: MARS ROVER",
+      "periodStart": "July 2018",
+      "periodEnd": "June 2020",
+      "toolsUsed": [
+        "python",
+        "ROS",
+        "pyQt"
+      ],
+      "tags": [
+        "robotics",
+        "python",
+        "autonomous navigation"
+      ],
+      "shortInfo": "Autonomous Navigation of a Mars Rover in a partially known terrain  with a custom variant of RRT*.",
+      "link": "https://kratosbitsgoa.com/"
+    },
   ],
   "summary": "<p>I have always been fascinated by the idea of bringing an otherwise inanimate and unintelligent system to life by adding an electronic brain. If machines could be endowed with humans’ ability to adapt and learn quickly, the resultant products can be used to perform any activity by using human-like intelligence but circumventing their low physical and mental resilience. To learn to program such intelligent robots, I did my Bachelors in Computer Science at BITS Pilani (Goa). At the university, with guidance from my professors and seniors, I explored how mimicking human modes of learning on robotic platforms can help researchers better understand cognitive systems and work towards developing truly intelligent machines. Intrigued by the advancements in human-inspired robotics, I have focused most of my studies on Artificial Intelligence and Cognitive Neuroscience.</p>",
   "profileLinks": [
