@@ -237,8 +237,8 @@ $.get("js/profile.json",
 		$('#helloText').html(profile.helloText);
 		loadLinks(profile.profileLinks);
 		loadSkills(profile.skills);
-		loadProjects(profile.projects);
-		loadWorks(profile.experince);
+// 		loadProjects(profile.projects);
+// 		loadWorks(profile.experince);
 		loadEducations(profile.educations);
 		loadAdiSays();
 		console.log('body loaded calling');
