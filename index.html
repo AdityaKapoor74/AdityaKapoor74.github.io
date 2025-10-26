@@ -152,34 +152,58 @@
     </div>
 
     <style>
+	  /* NEW STYLING FOR TEXT-ONLY PUBLICATION LIST
+	  */
+	
+	  /* Resets the list and sets up the counter */
 	  .publications-list {
-	    list-style-type: none; /* Removes the bullets from the list */
+	    list-style-type: none;
 	    padding: 0;
 	    margin: 0;
+	    /* This creates a new counter for each list (e.g., Pubs, Preprints) */
+	    counter-reset: pub-counter; 
 	  }
 	
 	  .pub-item {
-	    display: flex; /* This creates the two-column layout */
-	    align-items: flex-start; /* Aligns items to the top */
-	    gap: 1.5rem; /* Space between image and text */
-	    margin-bottom: 2.5rem; /* Space between publication entries */
+	    display: flex;         /* Use flex to align the number and the text */
+	    align-items: flex-start; /* Align items to the top */
+	    gap: 1.25rem;          /* Space between number and text */
+	    
+	    /* Spacing and separator */
+	    margin-bottom: 1.5rem;
+	    padding-bottom: 1.5rem;
+	    border-bottom: 1px solid #eee; /* Light gray separator */
 	  }
 	
-	  .pub-image {
-	    flex: 0 0 160px; /* Sets a fixed width for the image container */
+	  /* Removes the border from the very last item in any list */
+	  .publications-list li:last-of-type {
+	    border-bottom: none;
+	    margin-bottom: 0;
+	    padding-bottom: 0;
 	  }
 	
-	  .pub-image img {
-	    width: 100%; /* Makes image fill the container */
-	    height: auto;
-	    border-radius: 6px; /* Slightly rounded corners for elegance */
-	    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* A subtle shadow */
+	  /* This pseudo-element IS the number */
+	  .pub-item::before {
+	    counter-increment: pub-counter; /* Add 1 to the counter */
+	    content: counter(pub-counter) "."; /* Display as "1.", "2.", etc. */
+	    
+	    /* Sizing and styling for the number */
+	    flex: 0 0 2rem;       /* Give it a fixed width of 2rem */
+	    text-align: right;    /* Aligns the number neatly */
+	    font-weight: 600;
+	    font-size: 1.1rem;
+	    color: #888;         /* Subtle gray color */
+	    margin-top: 0.15rem;  /* Fine-tunes vertical alignment with title */
 	  }
 	
+	  /* The text block takes up the remaining space */
 	  .pub-info {
-	    flex: 1; /* Allows the info block to take all remaining space */
+	    flex: 1;
 	  }
 	
+	  /* Keep your existing styles for the text itself.
+	    These are from the previous suggestion and still look great.
+	  */
 	  .pub-title {
 	    font-size: 1.15rem;
 	    font-weight: bold;
@@ -190,13 +214,12 @@
 	    font-size: 0.95rem;
 	    line-height: 1.5;
 	    margin-bottom: 0.5rem;
-	    color: #333; /* Slightly lighter text for authors */
+	    color: #333;
 	  }
-	  
-	  /* This was your <span id="author-aditya">, now a class */
+	
 	  .self-author {
 	    font-weight: bold;
-	    color: #000; /* Makes your name black and bold */
+	    color: #000;
 	  }
 	
 	  .pub-venue {
@@ -213,7 +236,7 @@
 	    text-decoration: none;
 	    font-weight: bold;
 	    font-size: 0.9rem;
-	    color: #0056b3; /* A standard link-blue */
+	    color: #0056b3;
 	    padding: 4px 8px;
 	    border: 1px solid #ddd;
 	    border-radius: 4px;
@@ -225,24 +248,10 @@
 	    border-color: #ccc;
 	  }
 	  
-	  /* --- This is the magic for mobile responsiveness --- */
-	  @media (max-width: 768px) {
-	    .pub-item {
-	      flex-direction: column; /* Stacks image and text vertically */
-	      gap: 1rem;
-	    }
-	    
-	    .pub-image {
-	      flex-basis: auto; /* Resets the fixed width */
-	      width: 80%; /* Makes the image large, but not full-width */
-	      max-width: 250px;
-	      margin: 0 auto; /* Centers the image */
-	    }
-	    
-	    .pub-info {
-	      text-align: left; /* Ensures text is aligned left */
-	    }
-	  }
+	  /* The mobile responsiveness (@media) rule from your old CSS 
+	    is no longer needed because this new layout is simple 
+	    and responsive by default.
+	  */
 	</style>
 	
 	
